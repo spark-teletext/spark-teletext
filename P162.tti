@@ -1,0 +1,28 @@
+DE,4TELP300
+CT,8,T
+PS,8000
+PN,16201
+SC,0001
+OL,1,E]W       x                \            
+OL,2,E]W     `~D CHANNEL 4    T
+OL,3,E]W    xoD TELETEXT     T
+OL,4,E]W  `~?!j               T]F           
+OL,5,E]W xwppzph|||h|4|4pppp T]            
+OL,6,E]W./////o/,jh~|45///! T]FFootball   
+OL,7,E]W      j  jj|4}4    T]FItalia     
+OL,8,U]W      j' T"#"##!##!    T]Fon   G365  
+OL,9,U########################^T]            
+OL,10,T]                     ###              
+OL,11,T]GPROGRAMMES:F Channel 4 Today...G301  
+OL,12,T]U##########  FChannel 4 TomorrowG302  
+OL,13,T]             FSchools programmesG303  
+OL,14,T]             FProgramme               
+OL,15,T]             Fpreviews start on G304  
+OL,16,T]FRight        Films on 4 today..G370  
+OL,17,T]Fto Reply     Subtitle details..G375  
+OL,18,T]Fdetails      Channel 4 back-up.G380  
+OL,19,T]FonG385                               
+OL,20,T]U,,,,,,,,    FWorld Tennis......G350  
+OL,21,T///////////////////////////////////////
+OL,22,G]G    ACLASSIC TELETEXT ON SPARK       
+OL,23,A]G4-TEL P300               20/02/1994  
