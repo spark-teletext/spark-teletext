@@ -7,8 +7,8 @@ This layout 'condenses' a larger multi-magazine layout into the single magazine 
 500 -> 150 and so on.
 
 Because we're single-magazine, we should avoid 'foyers' besides page 100, unless an intro is really
-essential. However, one day the pix parade on 150 might become 501, if we ended up with so much 
-content that 500 was the Art/Music/Entertainment index page.
+essential. However, one day the pix parade on 160 might become 601, if we ended up with so much 
+content that 600 was an index.
 
 I did try to match Ceefax and Oracle 'in spirit' - and in case we scale.
 eg.
