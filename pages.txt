@@ -6,16 +6,20 @@ This layout 'condenses' a larger multi-magazine layout into the single magazine 
 300 -> 130
 500 -> 150 and so on.
 
-Because we're single-magazine, we should avoid 'foyers' besides page 100, unless an intro is really essential. However, one day the pix parade on 150 might become 501, if we ended up with so much content that 500 was the Art/Music/Entertainment index page.
+Because we're single-magazine, we should avoid 'foyers' besides page 100, unless an intro is really
+essential. However, one day the pix parade on 150 might become 501, if we ended up with so much 
+content that 500 was the Art/Music/Entertainment index page.
 
 I did try to match Ceefax and Oracle 'in spirit' - and in case we scale.
 eg.
 Ceefax sport 300 -> Aarkvaark 130
 Entertainment/arts 500 -> Writing and content 150
 
-Because 200 used to be Business/Finanace I made 120 for people doing 'business' with us - soliciting contributions and viewer feedback.
+Because 200 used to be Business/Finanace I made 120 for people doing 'business' with us - 
+soliciting contributions and viewer feedback.
 
-Because the chief content of the service is writing, 150-169 are room for that. If I was to vote on which section gets its own magazine first, I expect that will.
+Because the chief content of the service is writing, 150-169 are room for that. If I was
+to vote on which section gets its own magazine first, I expect that will.
 
 180 is public-facing teletexty stuff like
 replicas, because nobody ever really used
