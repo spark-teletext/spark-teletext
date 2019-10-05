@@ -1,56 +1,27 @@
-DE,Pix Parade P1
-CT,20,T
+DE,Classic Teletext Index
+CT,8,T
 PS,8000
-PN,18001
-SC,0001
-OL,1,QZ |W|<th|h|h4  |<t`|l0|<t`|l0|<th|$    
-OL,2,RZh|Wu?j*z%  u?jz5u?jz55j0    
-OL,3,TZ||W5 jjj5  5 jj55jj5u?j0    
-OL,4,W            `||t                  F    
-OL,5,W            *?                       
-OL,6,Q        `|}|||}tB                  
-OL,7,Q      `|}tB  Submit your   
-OL,8,Q     huB  teletext     
-OL,9,Q     ?/###//////o4B masterpieces 
-OL,10,W    8                  h   BtoCSPARK   
-OL,11,W   6         0  `  `    )0 B           
-OL,12,W  :       tgs;|}~}gs90   i BCome and   
-OL,13,W  5      ni7(kj?/e7(kj  `& B join the  
-OL,14,W j      )};,g~}k,g~t,!BC PIX PARADE 
-OL,15,W j  40  k?://gv;5 B             
-OL,16,W  5 +}x97~65               
-OL,17,W  *p "//g'#////'#ks3   FStay tuned  
-OL,18,W    !  +||?tQl||<Wx?' F  for more     
-OL,19,V  p|Wz5k;/v-|||,>#   Fdetails soon   
-OL,20,V`~7W}"|v;l|<7`t   F               
-OL,21,VWz4*},.!j}0    F            
-OL,22,VW";0Tppppx||W}0                
-OL,23,V}Wv;mTk?'W`?!       D]G1/2   
-DE,Pix Parade P2
-CT,20,T
-PS,8000
-PN,18002
-SC,0002
-OL,1,Q Z|W|<th|h|h4  |<t`|l0|<t`|l0|<th|$    
-OL,2,RZh|Wu?j*z%  u?jz5u?jz55j0    
-OL,3,TZ||W5 jjj5  5 jj55jj5u?j0    
-OL,4,                                  F     
-OL,5,S                      ~o}|t        
-OL,6,S        (t0          zyii}0      
-OL,7,S        `{?          /~{{wo/c~t     
-OL,8,S       `7Tx|0       S#/+'!  kt0  
-OL,9,S     }poTn7o4            S "t0
-OL,10,S     "/u}ToWt-x}           S  =+//
-OL,11,S       o}T}W~d/t   T    x~}SoT~|||0 
-OL,12,S        +}W~yy}|0T   z}S'T~4
-OL,13,S          +tWo'SxpT `|'!
-OL,14,S           +}Wk'Sx/T|2o?'   
-OL,15,S           `|||??T~}|!    
-OL,16,S          ~5##T~k?     
-OL,17,S         .#+o?Tt+};?'      
-OL,18,T    x|}t~}|ppp|~uo25           
-OL,19,T   xz%Si  CGFX BY 
-OL,20,T`p|k?/gsy~5S}GALISTAIR
-OL,21,T?j}k7~?g|?Sz5GGCREE  
-OL,22,T"}2j5g|};Sh!        
-OL,23,T ?#(  k2o?gy?Sx7D]G2/2   
+PN,18000
+SC,0000
+OL,1,Q]W         (|$p0|`p`|0p000xt  ^ZQ\/////
+OL,2,Q]W  CLASSIC  }1jv  }1>4j5  ^ZR\/////
+OL,3,Q////////////,/,.,-,/,/,...-.///ZT,/////
+OL,4,D                                       
+OL,5,T]                              n       
+OL,6,D]GM   YOU ARE WATCHING A SELECTION     
+OL,7,D]                                      
+OL,8,D]GM    OF ARCHIVED TELETEXT FROM       
+OL,9,T                                       
+OL,10,D]S ||||||,,l   ,<,l   ,<,l             
+OL,11,D]S  j#s55bj#s55bjj#7k   
+OL,12,D]S //////,,.j .5-,.j ~5-..j!4k   
+OL,13,D]S         "###!  "###!  "##########   
+OL,14,D]CM   AND OTHER TELETEXT SERVICES      
+OL,15,D]S                                     
+OL,16,T]                                      
+OL,18,T]                                      
+OL,19,D]CBBC CeefaxG..181  CSelectextG..185   
+OL,20,D]CBBC Prime G..182  CSky Text G..186   
+OL,21,D]CORACLE    G..183  CMTV Text G..187   
+OL,22,D]C4-Tel     G..184  CCNN Text G..188   
+OL,23,D]C                                     

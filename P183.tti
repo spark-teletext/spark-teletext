@@ -1,0 +1,251 @@
+DE,ORACLE, STV ORACLE, Teletext on 3
+CT,12,T
+PN,18301
+SC,0001
+PS,8000
+RE,0
+OL,2,                INDEX                   
+OL,3,                *****                   
+OL,4,          PAGE          PAGE        PAGE
+OL,5,INDEX      01 CINEMAS    18 EXCHANGE  35
+OL,6,IBA LONDON 02 THEATRES   19 TRAVEL    36
+OL,7,IBA MIDLAND03 CONCERTS   20 TIDES     37
+OL,8,IBA SOUTH  04 EXHIBITIONS21 WEATHER N 38
+OL,9,IBA ANGLIA 05 GALLERIES  22 WEATHER E 39
+OL,10,IBA YORKSH'06 OPERA      23 WEATHER W 40
+OL,11,IBA GRANADA07 GARDENING  24 WEATHER S 41
+OL,12,IBA WEST   08 SHOPPING   25 LR WEATHER42
+OL,13,IBA HARLECH09 RECIPE     26 POLICE    43
+OL,14,IBA CHANNEL10 FT INDICES 27 TRAFFIC   44
+OL,15,BBC1       11 UNIT TRUST 28 GRAPHICS  45
+OL,16,BBC2       12 BANK RATES 29 GRAPHICS  46
+OL,17,RADIO 1    13 INDUSTRIALS30 GRAPHICS  47
+OL,18,RADIO 2    14 CHEMICALS  31 GRAPHICS  48
+OL,19,RADIO 3    15 MOTORS     32 VCR TEST  49
+OL,20,RADIO 4    16 ELECTRICALS33 NEWS FLASH50
+OL,21,GRAPHICS   17 OILS       34             
+OL,24,Q]BClassic Teletext:   ORACLE 01/01/75  
+PN,18302
+SC,0002
+PS,8000
+RE,0
+OL,2,S#########R~k4k4~k4~k4 !S########### 
+OL,3,S#########Rj5n1n5   $S########### 
+OL,4,S#########Rj5j5j5j5  S########### 
+OL,5,S#########R"# #"!#"!"# #!#!S########### 
+OL,7, ITN NEWS INDEX..200 WEATHER.........105
+OL,8, Headlines.......201 TRAVEL DELAYS...400
+OL,9, Other News from 210                    
+OL,10, Business...from 230 ENTERTAINMENTS..300
+OL,11, Sport......from 254 BRITISH MUSEUM..333
+OL,12, NEWSFLASH.......250 FAMILY MAGAZINE.500
+OL,13,                     YOUR STARS......555
+OL,14, ABOUT ORACLE....110                    
+OL,15, EDUCATION.......435 LOCAL AFFAIRS...700
+OL,16, ENGINEERING.....450 POLICE 5........710
+OL,17, ORACLE ADS......750 24-Hr BANKS.....720
+OL,19, BROADCASTINGS,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,20,GITV LONDON......600 OTHER REGIONS...150
+OL,21, BBC TV..........601 LOCAL RADIO.....605
+OL,22,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,Q]BClassic Teletext:   ORACLE 24/08/76  
+PN,18303
+SC,0003
+PS,8000
+RE,0
+OL,2,Q7#######k R~k4k4~k4~k4 !Q 7#######k 
+OL,3,Q5j5k7j55j Rj5n1n5   $Q 5j5k7j55j 
+OL,4,Q5*%*%"-!j Rj5j5j5h4  Q 5*%*%"-!j 
+OL,5,Q######### R"# #"!#"!"# #!#!Q ######### 
+OL,6,CITN MAIN INDEX..200W7##CTELEVISIONW###k
+OL,7,CHEADLINES..News.201W5GTV INDEX....120Wj
+OL,8,S#########CSport.202W5GITV LONDON..777Wj
+OL,9,       CBusiness.203W5GITV REGIONS.150Wj
+OL,10,CThe Pound.......248W5GBBC TV......333Wj
+OL,11,CFT Index........249W-,,,,,,,,,,,,,,,,,.
+OL,13,BWEATHER MAP.....600FCONSUMER PAGES..500
+OL,14,R#######BLONDON..701V########FPRICES.501
+OL,15,       BREGIONS.150BF      BIRTHDAYS.506
+OL,16,                        F YOUR STARS.507
+OL,17,FTRAVEL INDEX....400                    
+OL,18,V######FLONDON...704BINDEX....LONDON.700
+OL,19,                    R#####B  REGIONS.150
+OL,20,GWHATS ON........300   B   TECHNICAL.450
+OL,21,W########GLONDON.700 BCOMPLETE INDEX.198
+OL,22,ABRITISH GENIUS..177                    
+OL,23,CTHE ROYAL BATH AND WEST SHOW........110
+OL,24,Q]BClassic Teletext:   ORACLE 01/06/77  
+PN,18304
+SC,0004
+PS,8000
+RE,0
+OL,1,QRQ
+OL,2,Q5j4h5j5jR!4k 4k!4k!4k  ~Q5j4h5j5j
+OL,3,Q5j5j5j5jR 5j %z %j }~  oQ5j5j5j5j
+OL,4,Q5j5j5j5jR 5j 5j 5j 7k  Q5j5j5j5j
+OL,5,Q5j5j}2a~R0%z 5j 5j0%z o oQ5j5j}2a~
+OL,6,QRQ
+OL,7,           R                 Q          
+OL,8,CITN MAIN INDEX..200F WEATHER AND       
+OL,9,CHEADLINES: NEWS.201 FTRAVEL INDEX..102 
+OL,10,S#########CSPORT.202 GREGIONAL          
+OL,11,C       BUSINESS.203 G  DIARIES.....300 
+OL,12,CNEWSFLASH.......250F LONDON DIARY..301 
+OL,13,CTHE POUND.......228 GLEISURE INDEX.700 
+OL,14,CFT INDEX........225G Crossword.....705 
+OL,15,CNEWSFILE........290G Horoscope.....715 
+OL,17,ATV INDEX........102  ORACLE KIDS...777 
+OL,18,ANew on ITV......106                    
+OL,19,BORACLE OFFBREAK.303  FARMING...358/432 
+OL,21,FALPHABETICAL INDEX:G TECHNICAL         
+OL,22,BA-E...190 F-L...191G        INDEX..499 
+OL,23,BM-R...192 S-Z...193 EADVERTISERS...401 
+OL,24,Q]BClassic Teletext:   ORACLE 17/01/80  
+PN,18305
+SC,0005
+PS,8000
+RE,0
+OL,1,Q|||||||||R|||||||||||||||||||Q|||||||||
+OL,2,Q5j4h5j5jR!4k 4k!4k!4k  ~Q5j4h5j5j
+OL,3,Q5j5j5j5jR 5j 1n 1j   {Q5j5j5j5j
+OL,4,Q5j5j}2a~R0%z 5j 5j0%z o oQ5j5j}2a~
+OL,5,Q/////////R///////////////////Q/////////
+OL,6,G       PAGESC100-399Gare on ITV        
+OL,7, G   PAGESF400-799G:switch to CHANNEL 4 
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,l,,,,,,,,,,,,,,,,,
+OL,9,ZC101GTV GUIDEF   501QjC300GYOUR REGION 
+OL,10,ZC103GWEATHER    F503QjC304GTRAVEL INDEX
+OL,11,ZC155GADVERTISERSF555Qj,,,,,,,,,,,,,,,,,
+OL,12,ZC198GFor The Deaf  Q jF401GCHANNEL 4   
+OL,13,ZQ,,,,,,,,,,,,,,,,,,,,n   G  GUIDE      
+OL,14,ZC200GNEWS INDEXF 600Qj,,,,,,,,,,,,,,,,,
+OL,15,ZC201GHeadlines  F601QjF700GLEISURE     
+OL,16,ZC202GSport      F602QjF702GREVIEWS     
+OL,17,ZC203GBusiness   F603QjF703GOracle Kids 
+OL,18,ZC250GNewsflash  F650QjF714GPrize Quiz  
+OL,19,QZ,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,
+OL,20,        SUBJECT INDEXC 190 -F590        
+OL,22,B]DMHOW TO MAKE SOUP SPARKLE - 350      
+OL,24,Q]BClassic Teletext:   ORACLE 13/11/82  
+PN,18306
+SC,0006
+PS,8000
+RE,0
+OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
+OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
+OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q5j5ju*%z
+OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q-.-./-.//
+OL,5,M News .........B101G  TV Guide ...B210 
+OL,7,M Breaktime ....B120  GTV Plus ....B220 
+OL,9,M Sport ........B130  GWhat's On ..B230 
+OL,11,M Weather/TravelB160G  Local Ads ..B270 
+OL,13,M Advertising ..B170  GA-Z Index ..B199 
+OL,15,G        M What's New ..B198            
+OL,17,QZ<,,,,,,,,,,,CON CHANNEL 4Q,,,,,,,,,,l 
+OL,18,QZ5CHome File     Personal   HolidaysQj 
+OL,19,QZ5CTime Off      Cars       4-Tel Q  j 
+OL,20,QZ5CYour Money    Racing     KidsQ    j 
+OL,21,D]GNewsround 119 Latest 150 City Ch4 500
+OL,22,M]ABRITISH AIRWAYSDFLIGHT ARRIVALSA176  
+OL,24,Q]BClassic Teletext:   ORACLE 07/02/87  
+PN,18307
+SC,0007
+PS,8000
+RE,0
+OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
+OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
+OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q5j5ju*%z
+OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q-.-./-.//
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,M  Nationwide gig guide            239  
+OL,7,QZ,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,,,,' 
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,10,G NEWS ........B101 GTV PLUS ......B250 
+OL,11, GLIVE AT FIVEB 120G ADVERTISING ..B270 
+OL,12,G SPORT .......B130 GRECRUITMENT ..B287 
+OL,13,G TV GUIDE ....B210G WEATHER/TRAVELB300 
+OL,14, GWHAT'S ON ...B230 GHOLIDAY NEWS .B340 
+OL,15, GCOMMUNITY ...B240 GHOLIDAYS .....B350 
+OL,16,G WHAT'S NEW ..B198 GA-Z INDEX ....B199 
+OL,18,QZ,,,,,,,,,,,BON CHANNEL 4:Q,,,,,,,,,,, 
+OL,19,  B  City   Racing  Reviews     Rock    
+OL,20,B    Money  Buzz    Diversions  Kids    
+OL,21,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22,C] A     FREE * FREE * FREE * FREE      
+OL,23,C]DORACLE INDICES & CAR STICKERS Ap183  
+OL,24,Q]BClassic Teletext:   ORACLE 27/08/90  
+PN,18308
+SC,0008
+PS,8000
+RE,0
+OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
+OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
+OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q5j5ju*%z
+OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q-.-./-.//
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,M  ORACLE goes off the air     117/118  
+OL,7,QZ,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,,,,' 
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, F    HAPPY NEW YEAR FROM ALL OF US     
+OL,10,G NEWS.........B101 GTV PLUS.......B250 
+OL,11, GLIVE AT FIVE.B120G ADVERTISING...B270 
+OL,12,G SPORT........B130 GWEATHER/TRAVELB300 
+OL,13,G TV GUIDE.....B210G HOLIDAY NEWS..B300 
+OL,14, GWHAT'S ON....B230 GHOLIDAYS......B350 
+OL,15, GCOMMUNITY....B240 GA-Z INDEX.....B199 
+OL,16,FM    ORACLE CLOSES AT MIDNIGHTB198     
+OL,18,QZ,,,,,,,,,,,BON CHANNEL 4:Q,,,,,,,,,,, 
+OL,19,  B  City   Racing  Reviews     Rock    
+OL,20,B    Money  Buzz    Diversions  Kids    
+OL,21,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22,G]AMCHECK THE 7 DAY FORECAST!DPAGE 197  
+OL,23,C]DORACLE INDICES & CAR STICKERS Ap183  
+OL,24,Q]BClassic Teletext:   ORACLE 31/12/92  
+PN,18309
+SC,0009
+PS,8000
+RE,0
+OL,1,V|||||}|t `|4T]W   `p pp `p `p p p0    
+OL,2,Vwss37k4~!T]W   j5z%z5"! 0    
+OL,3,V///55 o% T]W   j5j5j5`0     V
+OL,4,V5}"7  T]W   "# #"!#"!"# #!#!    
+OL,6,S]D     NEWS       \ T]  G  SPORT      \
+OL,7,CHEADLINES      401                     
+OL,8,FIn Brief       431 G HEADLINES     402 
+OL,9,FScotdeaf News  463                     
+OL,11,W]D   BUSINESS     \ R] D WHAT'S ON     
+OL,13,GReports        423C  Index         410 
+OL,14,CPolitics       430                     
+OL,15,V]D   WEATHER      \ W]D   TRAVEL       
+OL,16,GINDEX          403 F Road Index    404 
+OL,17,FYachting       464   Sea News      447 
+OL,18,W,,,,,,,,,,,,,,,,,,  FAir News      448 
+OL,19,CTV GUIDE       456  FRail News     446 
+OL,20,         T]GADVERTISERS   470 \         
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,G]A     CLASSIC TELETEXT ON SPARK       
+OL,23,A]GSTV ORACLE P400          17/10/1982  
+PN,18310
+SC,0010
+PS,8000
+RE,0
+OL,1,S|||4  h|    h|         |4        h||||4
+OL,2,S 5|||jh||4~4|||h|h|(=        "#`~?!
+OL,3,S 5=/jj.%j =/bnw 5 j7j7 `p"o4
+OL,4,S /%///*/*//%*/ ///*/*/ /% *-/*%/ "//!
+OL,5,A```````````````````````````````````````
+OL,6,A  CC E N T R A L  S C O T L A N DA   
+OL,7,A```````````````````````````````````````
+OL,8,MRAIL SELL-OFF PLANS ARE MADE PUBLIC 102
+OL,11,CNEWS SUMMARYF..101C HOROSCOPESF.....310
+OL,12,CTV GUIDEF......110C WEEKENDF........320
+OL,13,CSPORTF.........130 CGENERATORF......340
+OL,14,CWEATHERF.......180C FUN & GAMESF....350
+OL,15,CTRAVELF........190C AFTER HOURSF....380
+OL,16,CHOLIDAYSF......200C ADVERTISINGF....399
+OL,17,C         TELETEXT HELP!F..198          
+OL,19,A````````````CTeletext on 4A````````````
+OL,20,F FULL NEWS   RACING   FINANCE   CINEMA 
+OL,21,  F   MUSIC   THEATRE  APPOINTMENTS     
+OL,22,G]A     CLASSIC TELETEXT ON SPARK       
+OL,23,A]GTELETEXT ON 3 P100       23/01/1993  

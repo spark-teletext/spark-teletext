@@ -1,28 +1,29 @@
-DE,4TELP300
+DE,THREE OF A KIND
 CT,8,T
 PS,8000
-PN,16201
-SC,0001
-OL,1,E]W       x                \            
-OL,2,E]W     `~D CHANNEL 4    T
-OL,3,E]W    xoD TELETEXT     T
-OL,4,E]W  `~?!j               T]F           
-OL,5,E]W xwppzph|||h|4|4pppp T]            
-OL,6,E]W./////o/,jh~|45///! T]FFootball   
-OL,7,E]W      j  jj|4}4    T]FItalia     
-OL,8,U]W      j' T"#"##!##!    T]Fon   G365  
-OL,9,U########################^T]            
-OL,10,T]                     ###              
-OL,11,T]GPROGRAMMES:F Channel 4 Today...G301  
-OL,12,T]U##########  FChannel 4 TomorrowG302  
-OL,13,T]             FSchools programmesG303  
-OL,14,T]             FProgramme               
-OL,15,T]             Fpreviews start on G304  
-OL,16,T]FRight        Films on 4 today..G370  
-OL,17,T]Fto Reply     Subtitle details..G375  
-OL,18,T]Fdetails      Channel 4 back-up.G380  
-OL,19,T]FonG385                               
-OL,20,T]U,,,,,,,,    FWorld Tennis......G350  
-OL,21,T///////////////////////////////////////
-OL,22,G]G    ACLASSIC TELETEXT ON SPARK       
-OL,23,A]G4-TEL P300               20/02/1994  
+PN,16200
+SC,0000
+OL,1,:THREE OF A KIND:                       
+OL,2,D]                                      
+OL,3,A]SZ   ppppp0`p `p ppp0  `ppp  ppp0     
+OL,4,A]SZ   //?/%j j ?/4h/// ~?//%     
+OL,5,A]SZ     5  jpz up5jppp upp0     
+OL,6,A]SZ     5  j/o ?o}0j/// ?//%     
+OL,7,A]SZ     5  j j 5 5jppp upp0     
+OL,8,A]SZ     /%  */ */ /% /% +/// "///%     
+OL,9,D]SH  h}   IZ pp0  `ppp    `pp YH   ~4  
+OL,10,D]SHppup0IZ~?/4h///   h/o}YH`pzpp
+OL,11,D]SH"o' IZ5 5jppp   jpzYH +?!
+OL,12,D]SH h?+}  IZ5 5j///   j/oYH  ~'o4 
+OL,13,D]SH '`t"% IZup5j      j jYH *!x0+ 
+OL,14,D]SYH ~4  IZ"//' */      */ */YH  h}  
+OL,15,A]SH+?!IZp0 p0`p  pp0 `ppp YH"o'
+OL,16,A]SH bow  IZ5 5j ~?/4j/o} YH {?1 
+OL,17,A]SH >!0+4 IZux%j 5 5j j YHh'`"m 
+OL,18,A]SH  z0  IZ?o}0j 5 5j j YH `u  
+OL,19,A]SHl|}|$IZ5 5j 5 5jpzYH(|~|<
+OL,20,A]SH +?! IZ/% /%*/ /% /%*///!YH "o' 
+OL,21,A]SH z'"o0 I                     H`?!+u 
+OL,22,T]SH !   ! I                     H"   " 
+OL,23,GSEARCH COMPLETED             CUE ACTION
+OL,24,                                       \
