@@ -9,11 +9,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CTrendingG..... 110 C Sound-OffG.... 150
-OL,9,CAbout UsG..... 120 C PodcastG...... 160
-OL,10,CContact UsG... 125 C SPARK InboxG.. 170
-OL,11,CWanted ListG.. 130 C Pix ParadeG... 180
-OL,12,CContributeG... 140 C ArkvaarkG..... 190
+OL,8,CTrendingG..... 102 C Speak OutG.... 150
+OL,9,CContributeG... 120 C PodcastG...... 170
+OL,10,CWanted ListG.. 121 C Pix ParadeG... 170
+OL,11,CSPARK InboxG.. 125 C About UsG..... 190
+OL,12,CBefuddle!G.... 140 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]MCWhat's New on TVARK?G........ 101   
 OL,15,D]     TVARK this Summer. Stay tuned!   
@@ -22,7 +22,7 @@ OL,18,     GGGto see featured onCSPARK?
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
-OL,23,A]]CJoin the Pix ParadeG......... 180   
+OL,23,A]]CJoin the Pix ParadeG......... 170   
 DE,Index P2
 CT,10,T
 PS,8000
@@ -34,11 +34,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CTrendingG..... 110 C Sound-OffG.... 150
-OL,9,CAbout UsG..... 120 C PodcastG...... 160
-OL,10,CContact UsG... 125 C SPARK InboxG.. 170
-OL,11,CWanted ListG.. 130 C Pix ParadeG... 180
-OL,12,CContributeG... 140 C ArkvaarkG..... 190
+OL,8,CTrendingG..... 102 C Speak OutG.... 150
+OL,9,CContributeG... 120 C PodcastG...... 170
+OL,10,CWanted ListG.. 121 C Pix ParadeG... 170
+OL,11,CSPARK InboxG.. 125 C About UsG..... 190
+OL,12,CBefuddle!G.... 140 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]MCWhat's New on TVARK?G........ 101   
 OL,15,D]     TVARK this Summer. Stay tuned!   
@@ -59,11 +59,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CTrendingG..... 110 C Sound-OffG.... 150
-OL,9,CAbout UsG..... 120 C PodcastG...... 160
-OL,10,CContact UsG... 125 C SPARK InboxG.. 170
-OL,11,CWanted ListG.. 130 C Pix ParadeG... 180
-OL,12,CContributeG... 140 C ArkvaarkG..... 190
+OL,8,CTrendingG..... 102 C Speak OutG.... 150
+OL,9,CContributeG... 120 C PodcastG...... 170
+OL,10,CWanted ListG.. 121 C Pix ParadeG... 170
+OL,11,CSPARK InboxG.. 125 C About UsG..... 190
+OL,12,CBefuddle!G.... 140 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]MCWhat's New on TVARK?G........ 101   
 OL,15,D]     TVARK this Summer. Stay tuned!   
@@ -72,4 +72,4 @@ OL,18,     GGGto see featured onCSPARK?
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                        
-OL,23,A]]CClassic logos on SPARKG...... 105  
+OL,23,A]]CClassic TV logos on SPARKG... 161  
