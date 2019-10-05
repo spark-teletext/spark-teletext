@@ -31,31 +31,31 @@ itself is a 'category'
 	101 Whats New?
 	102 Trending
 
-	120 Wanted List
-	122 Contribute
-	125 SPARK Inbox
+	120 Contribute
+		121 Wanted List
+		125 SPARK Inbox
 
 	130 Arkvaark (Sport)
 
-	140 Three of a Kind (Games)
+	140 Befuddle! (Games)
 
-	150 Sound-Off (Writing / Content)
+	150 Speak Out (Writing / Content)
 		151 TV Mocks! ( Cwilliams1976 )
 		152 etc.
 
 	160 Pix Parade (maybe in future an entertainment index)
-	161 Going Logo
+		161 Going Logo
 
 	170 Podcast
-	175 Trax
+		175 Trax
 
 	180 Teletext Ark 
 		181 Ceefax indices carousel
 		185 Oracle indices carousel
 
 	190 About Us
-		192 Contact Us
-	199 Credits
+		191 Contact Us
+		199 Credits
 
 800 SPARK internal dev - general
 	820 SPARK dev - Alistair
