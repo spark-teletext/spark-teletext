@@ -1,8 +1,12 @@
-DE,Index P1
+DE,Index P3
+DS,inserter
+SP,S:\server\Pete Files\Teletext\spark-teletext\P100.tti
 CT,10,T
-PS,8000
 PN,10001
 SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -22,12 +26,12 @@ OL,18,     GGGto see featured onCSPARK?
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
-OL,23,A]]CJoin the Pix ParadeG......... 170   
-DE,Index P2
-CT,10,T
-PS,8000
+OL,23,A]]CJoin the Pix ParadeG......... 160   
 PN,10002
 SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -48,11 +52,11 @@ OL,20,    FGGet your music heard onCSPARK
 OL,21,       GFor more details seeFP175       
 OL,22,V                                       
 OL,23,A]]CYour views and reviewsG...... 150   
-DE,Index P3
-CT,10,T
-PS,8000
 PN,10003
 SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -71,5 +75,5 @@ OL,17,  LWhat type of content would you like
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
-OL,22,V                                        
-OL,23,A]]CClassic TV logos on SPARKG... 161  
+OL,22,V                                       
+OL,23,A]]CClassic TV logos on SPARKG... 161   
