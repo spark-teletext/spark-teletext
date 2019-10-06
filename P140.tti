@@ -20,9 +20,9 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S GSky Text           ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T GORACLE            ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V GORACLE            ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
 DE,Befuddle P140 2/-
 CT,25,T
 PS,8000
@@ -45,9 +45,9 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S GTyne Tees          ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T GGrampian          ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V GGrampian          ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
 DE,Befuddle P140 3/-
 CT,25,T
 PS,8000
@@ -70,9 +70,9 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S GSooty Show         ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T GDriveway          ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V GDriveway          ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
 DE,Befuddle P140 4/-
 CT,25,T
 PS,8000
@@ -95,9 +95,9 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S GKeith Mansfield    ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T GDerek Hilton      ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V GDerek Hilton      ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
 DE,Befuddle P140 5/-
 CT,25,T
 PS,8000
@@ -120,9 +120,9 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S G13                 ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T G26                ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V G26                ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
 DE,Befuddle P140 6/-
 CT,25,T
 PS,8000
@@ -145,6 +145,6 @@ OL,17,R###                     ZSo?z~;Qj
 OL,18,S|||                     ZSj}~'r!Q6 
 OL,19,S GBubbles            ZS |,l|~gQ6  
 OL,20,S###                     Z^S"o/yQ& _ 
-OL,21,T|||                        ZS(|?    
-OL,22,T GBobbles           ZT8#y|9,,,,f|~#,
-OL,23,T###                   ZTj h||||5  
+OL,21,V|||                        ZS(|?    
+OL,22,V GBobbles           ZT8#y|9,,,,f|~#,
+OL,23,V###                   ZTj h||||5  
