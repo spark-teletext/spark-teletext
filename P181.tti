@@ -57,6 +57,29 @@ PN,18103
 SC,0003
 PS,8000
 RE,0
+OL,1, S7/j+%7/j+%7jj5   ,            
+OL,2, S5 j, =$j, =b{1   j7j7jw*u? 
+OL,3, Su|jx4u|j  5j55   j5juju|j7 
+OL,6,C   NEWS         SPORT        LEISURE   
+OL,7, Headlines 201FHeadlines   GBBC`1    251
+OL,8, Home      202F& index  230GBBC`2    252
+OL,9, Home      203FFootball    GITV      253
+OL,10, Foreign   204Ftables   238GRadio    254
+OL,11, Foreign   205F            GFilms    255
+OL,12, In brief  206C FINANCE    GPop      256
+OL,13, BBC       207FHeadlines   GTransmitter 
+OL,14, People    208F& index  220Gnews     257
+OL,15, Charivari 209FFT Index 225GAppeals  258
+OL,16, NEWSFLASH 250FDiary    227GDesign   259
+OL,18,CTRAVEL    211`14   CONSUMER NEWS 241`49
+OL,19,CWEATHER   215,16   EVENTS/DIARY  217`19
+OL,21,S,,,AREMEMBER:GPages start on 100 onS,,,
+OL,22,S,,,Godd dates and 200 on even datesS,,,
+OL,24,T]CClassic Teletext:   Ceefax 12/01/76  
+PN,18104
+SC,0004
+PS,8000
+RE,0
 OL,2,FBBCS UQj#!        7+%                
 OL,3,S     UQj Qw{5w{5=,bss*/p/         
 OL,4,S     UQjp0up0up05 jpj          
@@ -79,8 +102,8 @@ OL,21,FPROGRAMME GUIDE        W5GB4 meetings
 OL,22,FBBC1G..151F BBC2G..152 W5    G  ....136
 OL,23,FITVG...153F RadioG.154 W5              
 OL,24,T]CClassic Teletext:   Ceefax 05/10/76  
-PN,18104
-SC,0004
+PN,18105
+SC,0005
 PS,8000
 RE,0
 OL,1,    S`ppppp     ppppp     ppppp         
@@ -106,8 +129,8 @@ OL,21,CRECIPEG............143 CPAGES 171-179
 OL,22,CFOR CHILDRENG......144                 
 OL,23,CFARMINGG...........147Q,,,,,,,,,,,,,,,,
 OL,24,T]CClassic Teletext:   Ceefax 31/05/77  
-PN,18105
-SC,0005
+PN,18106
+SC,0006
 PS,8000
 RE,0
 OL,1,D]   S `ppppp    `ppppp    `ppppp       
@@ -133,8 +156,8 @@ OL,20,T,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,
 OL,21,MBBC RADIO FOR SCHOOLS..........BBC2 276
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,T]CClassic Teletext:   Ceefax 03/10/83  
-PN,18106
-SC,0006
+PN,18107
+SC,0007
 PS,8000
 RE,0
 OL,1,D]                                      
@@ -159,8 +182,8 @@ OL,20,D]
 OL,21,D]F]DMNOEL'S CHRISTMAS PRESENT...145 D]]
 OL,23,D]                                      
 OL,24,T]CClassic Teletext:   Ceefax 08/11/89  
-PN,18107
-SC,0007
+PN,18108
+SC,0008
 PS,8000
 RE,0
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -186,8 +209,8 @@ OL,21,F]Q`0DSpeed                 DepthQjup
 OL,22,V///////////////////////////////////////
 OL,23,D] CFull index to all Ceefax pagesG199  
 OL,24,T]CClassic Teletext:   Ceefax 25/03/94  
-PN,18108
-SC,0008
+PN,18109
+SC,0009
 PS,8000
 RE,0
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
