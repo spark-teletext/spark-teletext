@@ -1,11 +1,11 @@
-DE,Rex Road Intro P1/2
+DE,Rex Road Intro P1/3
 CT,18,T
 PS,8000
 PN,13101
 SC,0001
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
-OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G1/2
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G1/3
 OL,4,A`GTHE SOAP ON SPARKA```````````````````
 OL,6,Q]CMEET THE RESIDENTS  \                
 OL,7,G                                       
@@ -22,14 +22,14 @@ OL,17, Let's introduce you to who lives behind
 OL,18, each door...                           
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
-DE,Rex Road Intro 2/2
+DE,Rex Road Intro P2/3
 CT,18,T
 PS,8000
 PN,13102
 SC,0002
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
-OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G2/2
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G2/3
 OL,4,A`GTHE SOAP ON SPARKA```````````````````
 OL,6,A]CNUMBER 2  \             A]CNUMBER 4  
 OL,7,GDon Reynolds             Richard Harvey
@@ -46,5 +46,28 @@ OL,17,                            Jack Redfern
 OL,18,A]CNUMBER 10  \                         
 OL,19, Ros Porter                             
 OL,20, James Porter                           
+OL,21,B                                       
+OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
+DE,Rex Road Intro P3/3
+CT,8,T
+PS,18000
+PN,13103
+SC,0003
+OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
+OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G3/3
+OL,4,A`GTHE SOAP ON SPARKA```````````````````
+OL,6,GREX ROAD                               
+OL,7,G                                       
+OL,8, This is a work of fiction. Names,      
+OL,9, characters, businesses, places, events,
+OL,10, locales, and incidents are either the  
+OL,11,Gproducts of the author's imagination or
+OL,12,Gused in a fictitious manner. Any       
+OL,13, resemblance to actual persons, living  
+OL,14, or dead, or actual events is purely    
+OL,15, coincidental.                          
+OL,16,G                                       
+OL,18,A                                       
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
