@@ -1,11 +1,11 @@
-DE,Rex Road Intro P1/3
+DE,Rex Road Intro P1/5
 CT,18,T
 PS,8000
 PN,13101
 SC,0001
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
-OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G1/3
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G1/5
 OL,4,A`GTHE SOAP ON SPARKA```````````````````
 OL,6,Q]CMEET THE RESIDENTS  \                
 OL,7,G                                       
@@ -22,14 +22,14 @@ OL,17, Let's introduce you to who lives behind
 OL,18, each door...                           
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
-DE,Rex Road Intro 2/2
+DE,Rex Road Intro 2/5
 CT,18,T
 PS,8000
 PN,13102
 SC,0002
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
-OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G2/3
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G2/5
 OL,4,A`GTHE SOAP ON SPARKA```````````````````
 OL,6,A]CNUMBER 2  \             A]CNUMBER 4  
 OL,7,GDon Reynolds             Richard Harvey
@@ -48,14 +48,68 @@ OL,19, Ros Porter
 OL,20, James Porter                           
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
-DE,Rex Road Intro P3/3
+DE,Don Reynolds portrait
 CT,18,T
-PS,18000
+PS,8000
 PN,13103
 SC,0003
+OL,2,T999999999999!W p|||||p  8!S+
+OL,3,Tfffffffff&W  x}|}&  S k
+OL,4,T999999999W `~o}?}}x0 S "
+OL,5,TfffffffffW`?/sy~5 S  
+OL,6,T999999999W~?gy?gs{?'! S  
+OL,7,Tffffffff$Wy~?gy~5   S  *
+OL,8,T99999999Wj?gy~0" $ pS+o
+OL,9,TffffffffWj'cs3/4( zg}S*
+OL,10,T99999999W*u|//o  .S 
+OL,11,TfffffffffW'pr;wxtx/9 j'zS 
+OL,12,T999999999W+wp8ss|f j6S`
+OL,13,TffffffffffW4% o~%Sj
+OL,14,T9999999999Wke+%   tS j
+OL,15,TffffffffffWj7n}2o (` tS /
+OL,16,T9999999999W*v2  "+/~'    5S  +
+OL,17,TffffffffffdWk? xpp  */#  $ zwTh0S*
+OL,18,T9999999999990Wh}|>a|0   $ x'T}0S*
+OL,19,Tffffffffffff$W`!  jz5  ! x'TxtS+
+OL,20,T9999999999991W*u  "/!`  h7Th}S*
+OL,21,TffGDONTffffffW + "(    x?Th}0
+OL,22,T99GREYNOLDST99W    px|.?Tx}
+OL,23,Tfffffffffffff  `~pppppppppx
+DE,Josie Reynolds
+CT,18,T
+PS,8000
+PN,13104
+SC,0004
+OL,2,T99! Q~'    j'   o}   "o?!   *7 !k4T)9
+OL,3,Tff Qj7      W0pQ #%    ! W`0Q"    0Tf
+OL,4,T91 Q~!  Wp?/###+mp0z}~4|x//o}0Q *5T)
+OL,5,Tf$Qz5  Wj'x~}trs/'px|p"mQ  k5Tb
+OL,6,T91Q   W|Q  j5T(
+OL,7,Tf Q?   Wg3` so///7Q   mTb
+OL,8,T9Qj!  Wj|}pxt+/q( krouQ   *T8
+OL,9,T&   W  ~/'s77?o}~}~0T   f
+OL,10,T1    W`gsq|| uo|rsss{5T   9
+OL,11,T$   W j7jj}T   b
+OL,12,T1   W j' ~6+T   (
+OL,13,Td   W j~'z!ju+oT   f
+OL,14,T9   W jsy~0o1+?!{|~5T   9
+OL,15,T$    W*o}??T    f
+OL,16,T1    W kj?//?//o}k%T    (
+OL,17,T$     W"76s        #{6'T     b
+OL,18,T1      W*?y}||ppp|~}k!T     T9
+OL,19,TdW      W"ou~?!T      Tf
+OL,20,T91W      hW+'0        T8
+OL,21,TfddW     j}0W#ow||{?#h}0  JOSIETf
+OL,22,T999990W `|0W"+?# x REYNOLDST9
+OL,23,TfffffW `~}t W "####  (//////$   Tff
+DE,Rex Road Intro P5/5
+CT,18,T
+PS,18000
+PN,13105
+SC,0005
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
-OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G3/3
+OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G5/5
 OL,4,A`GTHE SOAP ON SPARKA```````````````````
 OL,6,GREX ROAD                               
 OL,7,G                                       
