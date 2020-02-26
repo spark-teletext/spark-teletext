@@ -3,6 +3,7 @@ CT,18,T
 PS,8000
 PN,13101
 SC,0001
+FL,132,135,140,150,8ff,100
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
 OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G1/5
@@ -22,11 +23,13 @@ OL,17, Let's introduce you to who lives behind
 OL,18, each door...                           
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Rex Road Intro 2/5
 CT,18,T
 PS,8000
 PN,13102
 SC,0002
+FL,132,135,140,150,8ff,100
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
 OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G2/5
@@ -48,11 +51,13 @@ OL,19, Ros Porter
 OL,20, James Porter                           
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Don Reynolds portrait
 CT,18,T
 PS,8000
 PN,13103
 SC,0003
+FL,132,135,140,150,8ff,100
 OL,2,T999999999999!W p|||||p  8!S+
 OL,3,Tfffffffff&W  x}|}&  S k
 OL,4,T999999999W `~o}?}}x0 S "
@@ -75,11 +80,13 @@ OL,20,T9999999999991W*u  "/!`  h7Th}S*
 OL,21,TffGDONTffffffW + "(    x?Th}0
 OL,22,T99GREYNOLDST99W    px|.?Tx}
 OL,23,Tfffffffffffff  `~pppppppppx
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Josie Reynolds
 CT,18,T
 PS,8000
 PN,13104
 SC,0004
+FL,132,135,140,150,8ff,100
 OL,2,T99! Q~'    j'   o}   "o?!   *7 !k4T)9
 OL,3,Tff Qj7      W0pQ #%    ! W`0Q"    0Tf
 OL,4,T91 Q~!  Wp?/###+mp0z}~4|x//o}0Q *5T)
@@ -102,11 +109,13 @@ OL,20,T91W      hW+'0        T8
 OL,21,TfddW     j}0W#ow||{?#h}0  JOSIETf
 OL,22,T999990W `|0W"+?# x REYNOLDST9
 OL,23,TfffffW `~}t W "####  (//////$   Tff
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Rex Road Intro P5/5
 CT,18,T
 PS,18000
 PN,13105
 SC,0005
+FL,132,135,140,150,8ff,100
 OL,1,Q]W|l0|,h4|  h<t`<t`<th<t  \ZQ//////////
 OL,2,Q]Wk4sh7}  j7}*u?j7ju?  \RZ//////////
 OL,3,Q//,-.,,-.,//-.,/,.-.,-,.'!TZ,//////G5/5
@@ -125,3 +134,4 @@ OL,16,G
 OL,18,A                                       
 OL,21,B                                       
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
