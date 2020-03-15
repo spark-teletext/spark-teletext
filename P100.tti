@@ -1,5 +1,5 @@
-DE,INDEX P1
-CT,8,T
+DE,Index 100 1/5
+CT,12,T
 PS,8000
 PN,10001
 SC,0001
@@ -10,11 +10,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CContributeG... 120 C TeletextrsG... 145
-OL,9,CRex RoadG..... 132 C Speak OutG.... 150
-OL,10,CQuondamG...... 135 C Pix ParadeG... 160
+OL,8,CContributeG... 120 C Befuddle!G.... 140
+OL,9,CRex RoadG..... 132 C TeletextrsG... 145
+OL,10,CQuondamG...... 135 C Speak OutG.... 150
 OL,11,CTsangbobG..... 136 C About UsG..... 190
-OL,12,CBefuddle!G.... 140 C Contact UsG... 191
+OL,12,CSquare EyedG.. 137 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]MCMeet the residents in Rex Rd.G131   
 OL,17,  LWhat type of content would you like  
@@ -24,7 +24,8 @@ OL,21,            Fspark@tvark.org
 OL,22,V                                       
 OL,23,A]]CJoin the Pix ParadeG......... 160   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
-DE,INDEX P2
+DE,Index 100 2/5
+CT,12,T
 PS,8000
 PN,10002
 SC,0002
@@ -35,13 +36,13 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CContributeG... 120 C TeletextrsG... 145
-OL,9,CRex RoadG..... 132 C Speak OutG.... 150
-OL,10,CQuondamG...... 135 C Pix ParadeG... 160
+OL,8,CContributeG... 120 C Befuddle!G.... 140
+OL,9,CRex RoadG..... 132 C TeletextrsG... 145
+OL,10,CQuondamG...... 135 C Speak OutG.... 150
 OL,11,CTsangbobG..... 136 C About UsG..... 190
-OL,12,CBefuddle!G.... 140 C Contact UsG... 191
+OL,12,CSquare EyedG.. 137 C Contact UsG... 191
 OL,13,C                                       
-OL,14,D]M  CPlay our Befuddling quiz!G140     
+OL,14,D]MCA Square Eyed look back at TVG137   
 OL,17,  GAre you an unsigned artist or in an  
 OL,18,   F        Gunsigned band?             
 OL,20,    FGGet your music heard onCSPARK     
@@ -49,7 +50,8 @@ OL,21,       GFor more details seeFP175
 OL,22,V                                       
 OL,23,A]]CYour views and reviewsG...... 150   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
-DE,INDEX P3
+DE,Index 100 3/5
+CT,12,T
 PS,8000
 PN,10003
 SC,0003
@@ -60,21 +62,22 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CContributeG... 120 C TeletextrsG... 145
-OL,9,CRex RoadG..... 132 C Speak OutG.... 150
-OL,10,CQuondamG...... 135 C Pix ParadeG... 160
+OL,8,CContributeG... 120 C Befuddle!G.... 140
+OL,9,CRex RoadG..... 132 C TeletextrsG... 145
+OL,10,CQuondamG...... 135 C Speak OutG.... 150
 OL,11,CTsangbobG..... 136 C About UsG..... 190
-OL,12,CBefuddle!G.... 140 C Contact UsG... 191
+OL,12,CSquare EyedG.. 137 C Contact UsG... 191
 OL,13,C                                       
-OL,14,D]M    CRex Road Episode FiveG132       
+OL,14,D]M    CRex Road Episode SixG132        
 OL,17,  LWhat type of content would you like  
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
-OL,23,A]]CRead SPARK on your TV!G...... 146   
+OL,23,A]]CClassic TV logos on SPARKG... 161   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
-DE,INDEX P4
+DE,Index 100 4/5
+CT,12,T
 PS,8000
 PN,10004
 SC,0004
@@ -85,11 +88,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CContributeG... 120 C TeletextrsG... 145
-OL,9,CRex RoadG..... 132 C Speak OutG.... 150
-OL,10,CQuondamG...... 135 C Pix ParadeG... 160
+OL,8,CContributeG... 120 C Befuddle!G.... 140
+OL,9,CRex RoadG..... 132 C TeletextrsG... 145
+OL,10,CQuondamG...... 135 C Speak OutG.... 150
 OL,11,CTsangbobG..... 136 C About UsG..... 190
-OL,12,CBefuddle!G.... 140 C Contact UsG... 191
+OL,12,CSquare EyedG.. 137 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]M CWorld according to TsangbobG136    
 OL,17,  LWhat type of content would you like  
@@ -99,7 +102,8 @@ OL,21,            Fspark@tvark.org
 OL,22,V                                       
 OL,23,A] CContribute to TVARKG......... 120   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
-DE,INDEX P5
+DE,Index 100 5/5
+CT,12,T
 PS,8000
 PN,10005
 SC,0005
@@ -110,11 +114,11 @@ OL,3,RZ ///Wr3ju5zju%z?R///
 OL,4,TZ////Wrsskj7# kj74k}T//   
 OL,5,    ZWW+///'*//%  ///*/*//%/%///*/      
 OL,6,UZ,,,,,,,,,GTELETEXT ON TVARKU,,,,,,,,, 
-OL,8,CContributeG... 120 C TeletextrsG... 145
-OL,9,CRex RoadG..... 132 C Speak OutG.... 150
-OL,10,CQuondamG...... 135 C Pix ParadeG... 160
+OL,8,CContributeG... 120 C Befuddle!G.... 140
+OL,9,CRex RoadG..... 132 C TeletextrsG... 145
+OL,10,CQuondamG...... 135 C Speak OutG.... 150
 OL,11,CTsangbobG..... 136 C About UsG..... 190
-OL,12,CBefuddle!G.... 140 C Contact UsG... 191
+OL,12,CSquare EyedG.. 137 C Contact UsG... 191
 OL,13,C                                       
 OL,14,D]M  CQuondam: Now versus ThenG135      
 OL,17,  LWhat type of content would you like  
