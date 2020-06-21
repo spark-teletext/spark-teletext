@@ -4,6 +4,7 @@ PS,8000
 PN,10001
 SC,0001
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -17,19 +18,20 @@ OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C About UsG..... 190
 OL,13,C                                       
 OL,14,D]MCMeet the residents in Rex Rd.G131   
-OL,15,D]     TVARK this Summer. Stay tuned!   
 OL,17,  LWhat type of content would you like  
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
 OL,23,A]]CJoin the Pix ParadeG......... 160   
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index P2/6
 CT,8,T
 PS,8000
 PN,10002
 SC,0002
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -43,19 +45,20 @@ OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C About UsG..... 190
 OL,13,C                                       
 OL,14,D]M  CPlay our Befuddling quiz!G140     
-OL,15,D]     TVARK this Summer. SGay tune !   
 OL,17,  GAre you an unsigned artist or in an  
 OL,18,   F        Gunsigned band?             
 OL,20,    FGGet your music heard onCSPARK     
 OL,21,       GFor more details seeFP175       
 OL,22,V                                       
 OL,23,A]]CYour views and reviewsG...... 150   
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index P3/6
 CT,8,T
 PS,8000
 PN,10003
 SC,0003
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -68,20 +71,21 @@ OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C About UsG..... 190
 OL,13,C                                       
-OL,14,D]M     CRex Road Episode OneG132       
-OL,15,D]     TVARK this Summer. Stay tuned    
+OL,14,D]MC   Rex Road Episode TwentyG132      
 OL,17,  LWhat type of content would you like  
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
 OL,23,A]]CClassic TV logos on SPARKG... 161   
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index P4/6
 CT,8,T
 PS,8000
 PN,10004
 SC,0004
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -95,19 +99,20 @@ OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C About UsG..... 190
 OL,13,C                                       
 OL,14,D]M CWorld according to TsangbobG136    
-OL,15,D]     TVARK this Summer. Stay tuned    
 OL,17,  LWhat type of content would you like  
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
 OL,23,A] CContribute to TVARKG......... 120   
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index P5/6
 CT,8,T
 PS,8000
 PN,10005
 SC,0005
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -121,19 +126,19 @@ OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C About UsG..... 190
 OL,13,C                                       
 OL,14,D]M  CQuondam: Now versus ThenG135      
-OL,15,D]     TVARK this Summer. Stay tuned    
 OL,17,  LWhat type of content would you like  
 OL,18,     GGGto see featured onCSPARK?       
 OL,20,          GEmail your ideas to          
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
 OL,23,A]C More about TVARKG............ 190   
-DE,Index P6/6
+OL,24,ARex Road BQuondam  CBefuddle FSpeak OutDE,Index P6/6
 CT,8,T
 PS,8000
 PN,10006
 SC,0006
 RE,0
+FL,132,135,140,150,8ff,199
 OL,1,    ZWWx|||th||||0x|||th||||0|||h|      
 OL,2,QZ  //Wjj55jj55jQ//// 
 OL,3,RZ ///Wr3ju5zju%z?R///  
@@ -154,3 +159,4 @@ OL,20,          GEmail your ideas to
 OL,21,            Fspark@tvark.org            
 OL,22,V                                       
 OL,23,A] CContribute to TVARKG......... 120   
+OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
