@@ -1,29 +1,30 @@
-DE,TPTV Monday - night
+DE,
 DS,inserter
 SP,Z:\SPARK\P171.tti
 PN,17101
 SC,0001
 PS,8000
-CT,18,T
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FMonday 29 June  \                    
-OL,8,C06:00GRing-A-Ding Rhythm!              
-OL,9,C07:35GFlannelfootE@                    
+OL,6,D]FMonday 06 July  \                    
+OL,8,C06:00GThe Love LotteryE@               
+OL,9,C07:45GOpen All NightE@                 
 OL,10,C09:00GSir Francis Drake                
-OL,11,C09:30GThe Old Dark HouseE@             
-OL,12,C11:10GIWM: Go To Blazes (1942)         
-OL,13,C11:25GThe Southern Star                
-OL,14,C13:35GIWM: Malta GC (1943)             
-OL,15,C14:00GHannayCSee 178F                  
-OL,16,C15:00GIWM: The Dawn Guard (1941)       
-OL,17,C15:10GCounter-Attack                   
+OL,11,C09:30GLadies Who Do                    
+OL,12,C11:10GStars from the Screen (1934)     
+OL,13,C11:25GGrand National NightE@           
+OL,14,C13:00GFiddlers Three                   
+OL,15,C14:45GSalisbury Hall - The Ghost Of    
+OL,16,C     GNell Gwyn                        
+OL,17,C15:00GThe October Man                  
 OL,18,C17:00GCatweazle                        
-OL,19,C17:30GInterludeE@                      
+OL,19,C     G                                 
+OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext day BQuondam  CSpeak Out FAbout Us
@@ -31,23 +32,26 @@ FL,172,135,140,150,170,199
 PN,17102
 SC,0002
 PS,8000
-CT,18,T
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FMonday 29 June  \                    
-OL,8,C19:45GIWM: All Hands (1940)            
-OL,9,C20:00GHannayCSee 178                   
-OL,10,C21:00GSpecial Branch                   
-OL,11,C22:00GThe Gentle Touch                 
-OL,12,C23:00GThe Camp On Blood Island         
-OL,13,GTuesday's Early Programmes             
-OL,14,C00:40GRichard's ThingsE@               
-OL,15,C02:40GDuffy                            
-OL,16,C04:40GBand of ThievesE@                
+OL,6,D]FMonday 06 July  \                    
+OL,8,C17:30GThe Three of Us                  
+OL,9,C17:45GThe Way Ahead                    
+OL,10,C20:00GHannay                           
+OL,11,C21:00GSpecial Branch                   
+OL,12,C22:00GThe Gentle Touch                 
+OL,13,C23:00GCircus of Fear                   
+OL,14, Tuesday's Early Programmes             
+OL,15,C00:45GLittle Fauss and Big HalsyE@     
+OL,16,C02:45GLulu Belle                       
+OL,17,C04:30GFall of the House of Usher       
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext day BQuondam  CSpeak Out FAbout Us

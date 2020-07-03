@@ -1,54 +1,52 @@
 DE,
-DS,inserter
-SP,Z:\SPARK\P176.tti
+CT,8,T
+PS,8000
 PN,17601
 SC,0001
-PS,8000
-CT,18,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 04 July  \                  
-OL,8,C05:55GThe Ideal Home Exhibition March  
-OL,9,C     G1964 at Olympia - Glimpses       
-OL,10,C06:00GHammer The ToffE@                
-OL,11,C07:30GSir Francis Drake                
-OL,12,C08:00GOld Bill and Son                 
-OL,13,C10:00GHawkeye & the Last of the        
+OL,6,D]FSaturday 11 July  \                  
+OL,8,C05:55GSturminster Carnival...          
+OL,9,C06:00GIWM: Malta GC (1943)             
+OL,10,C06:25GIWM: Next of Kin                 
+OL,11,C08:30GSir Francis Drake                
+OL,12,C09:00GAnything To Declare?E@           
+OL,13,C10:30GHawkeye & the Last of the        
 OL,14,C     GMohicansE@                       
-OL,15,C10:30GThere Was a Young LadyE@         
-OL,16,C12:15GBlitz On Britain                 
-OL,17,C13:30GWarlords of Atlantis             
-OL,18,C15:30GNate and HayesE@                 
-OL,19,C17:30GThe Adventures of Sir Lancelot   
+OL,15,C11:00GDevil Girl From MarsE@           
+OL,16,C12:35GMidlands in the 1960s            
+OL,17,C12:55GSouth of PanamaE@                
+OL,18,C14:05GThe Moonraker                    
+OL,19,C15:45GThe Huggetts AbroadE@            
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
-FL,177,175,140,190,170,199
+DE,
+CT,8,T
+PS,8000
 PN,17602
 SC,0002
-PS,8000
-CT,18,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 04 July  \                  
-OL,8,C18:00GCross Channel                    
-OL,9,C19:15GBlowing Wild                     
-OL,10,C21:00GThe Spy Who Came in from the     
-OL,11,       ColdE@                           
-OL,12,C23:15GThe HunterE@                     
-OL,13, Sunday's Early Programming             
-OL,14,C01:15GToo Young To Love                
-OL,15,C02:55GThe ShipbuildersE@               
-OL,16,C04:30GMan Who Changed His Name         
+OL,6,D]FSaturday 11 July  \                  
+OL,8,C17:30GThe Adventures of Sir Lancelot   
+OL,9,C18:00GThe Eternal Sea                  
+OL,10,C20:05GThe Man Who Could Cheat DeathE@  
+OL,11,C21:50GThe Amorous Adventures of Moll   
+OL,12,C     GFlandersE@                       
+OL,13, Sunday's Early Programmes              
+OL,14,C00:25GLittle Fauss and Big HalsyE@     
+OL,15,C02:25GNight Visitor                    
+OL,16,C04:30GUp In The AirE@                  
 OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
@@ -56,4 +54,3 @@ OL,20,C     G
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
-FL,177,175,140,190,170,199

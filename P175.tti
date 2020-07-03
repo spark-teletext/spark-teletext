@@ -1,55 +1,55 @@
 DE,
-CT,18,T
-PS,8000
+DS,inserter
+SP,Z:\SPARK\P175.tti
 PN,17501
 SC,0001
+PS,8000
+CT,8,T
 RE,0
-FL,176,174,140,190,170,199
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FFriday 03 July  \                    
-OL,8,C06:00GInn For TroubleE@                
-OL,9,C07:50GMake Mine a MillionE@            
-OL,10,C09:30GBeautiful But Dangerous          
-OL,11,C11:15GBorn Of The SeaE@                
-OL,12,C12:15GPlease Turn Over                 
+OL,6,D]FFriday 10 July  \                    
+OL,8,C06:00GDavyE@                           
+OL,9,C07:40GReport On Litter                 
+OL,10,C07:45GMarry Me                         
+OL,11,C09:35GMrs. Pym of Scotland YardE@      
+OL,12,C10:50GVoyage of the Damned             
 OL,13,C14:00GRooms                            
-OL,14,C14:35GIWM: Channel Incident (1940)     
-OL,15,C14:50GThe Devil and Miss JonesE@       
-OL,16,C16:40GCornwall Calling                 
-OL,17,C17:00GCatweazle                        
-OL,18,C17:30GCross Channel                    
+OL,14,C14:30GRunning for Pleasure             
+OL,15,C14:55GCrooks In Cloisters              
+OL,16,C16:55GBlithe SpiritE@                  
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+FL,176,174,140,190,170,199
+PN,17502
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G2/2
+OL,6,D]FFriday 10 July  \                    
+OL,8,C18:55GSpeed Crazy                      
+OL,9,C19:00GVenetian Bird                    
+OL,10,C21:00GVan der Valk                     
+OL,11,C22:00GThe Rocky Horror Picture ShowE@  
+OL,12, Saturday's Early Programmes            
+OL,13,C00:00GNosferatu The Vampyre            
+OL,14,C02:15GThe First Travelling Saleslady   
+OL,15,C04:05GWhen You Come Home               
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
 OL,19,C     G                                 
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
-DE,
-CT,18,T
-PS,8000
-PN,17502
-SC,0002
-RE,0
 FL,176,174,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FFriday 03 July  \                    
-OL,8,C18:45GThe Great Milk Bottle Mystery    
-OL,9,C18:55GThe Mirror Crack'd               
-OL,10,C21:00GVan der Valk                     
-OL,11,C22:00GThe Amorous Adventures of Moll   
-OL,12,C     GFlandersCSee 178                 
-OL,13, Saturday's Early Programmes            
-OL,14,C00:35GHangar 18                        
-OL,15,C02:35GThe Devil-Ship Pirates           
-OL,16,C04:20GLand Without Music               
-OL,17,C     G                                 
-OL,18,C     G                                 
-OL,19,C     G                                 
-OL,20,C     G                                 
-OL,23,D]G     talkingpicturestv.co.uk         
-OL,24,ANext dayBDay before CBefuddle FAbout Us
