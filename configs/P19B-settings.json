@@ -1,0 +1,53 @@
+{
+    "modules": [
+        {
+            "moduleName":"status",
+            "settings": {
+                "title":{
+                    "row":1,
+                    "bcolour":"blue",
+                    "align":"centre"
+                },
+                "statsPage":{
+                    "timestamp":{
+                        "row":3
+                    },
+                    "totals":{
+                        "row":5
+                    },
+                    "pageTable":{
+                        "row":7
+                    }
+                },
+                "logPage":{
+                    "timestamp":{
+                        "row":3
+                    },
+                    "logWindow":{
+                        "row":5,
+                        "fcolour":"green"
+                    }
+                },
+                "infoPage":{
+                    "timestamp":{
+                        "row":3
+                    },
+                    "startTime":{
+                        "row":5
+                    },
+                    "version":{
+                        "row":7
+                    }
+                }
+            }
+        },
+        {
+            "moduleName":"subpage-number",
+            "settings": {
+                "row":1
+            }
+        }
+    ],
+    "pageSettings": {
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "modules": [
+        {
+            "moduleName":"now-playing",
+            "settings":{
+                "updateDelay":12,
+                "duration":1914,
+                "tracks":[
+                    {"title":"Jackpot", "artist":"Frank McDonald & Chris Rae", "start":0},
+                    {"title":"Formula One", "artist":"Curtis Schwartz", "start":184},
+                    {"title":"Living Image", "artist":"Paul Field", "start":373},
+                    {"title":"Spring Collection", "artist":"Graham Donald & Harry Preskett", "start":546},
+                    {"title":"Cruising Stateside", "artist":"Robert Howes & Rod Argent", "start":696},
+                    {"title":"The Long Journey", "artist":"Brian Bennett", "start":885},
+                    {"title":"Freewheelin'", "artist":"Mitch Dalton", "start":1110},
+                    {"title":"Way Down Yonder In New Barnet", "artist":"Simon Park", "start":1290},
+                    {"title":"Take Care Of You", "artist":"Wolfgang Muermann", "start":1458},
+                    {"title":"Harvey", "artist":"Midas Touch", "start":1652},
+                    {"title":"Pringle", "artist":"Alan Parker", "start":1786}
+                ],
+                "progressBar":{
+                    "row":10,
+                    "onColour":"cyan",
+                    "offColour":"blue",
+                    "align":"left",
+                    "steps":13,
+                    "boxed":false,
+                    "border":false,
+                    "separated":true
+                },
+                "progressText": {
+                    "row":10,
+                    "colour":"white",
+                    "align":"right"
+                },
+                "currentTrackTitle":{
+                    "row":8,
+                    "column":3,
+                    "fcolour":"white",
+                    "align":"left",
+                    "boxed":false,
+                    "ellipsis":true
+                },
+                "currentTrackArtist":{
+                    "row":9,
+                    "column":3,
+                    "fcolour":"white",
+                    "align":"left",
+                    "boxed":false,
+                    "ellipsis":true
+                },
+                "nextTrackTitle":{
+                    "row":14,
+                    "column":3,
+                    "fcolour":"white",
+                    "align":"left",
+                    "boxed":false,
+                    "ellipsis":true
+                },
+                "nextTrackArtist":{
+                    "row":15,
+                    "column":3,
+                    "fcolour":"white",
+                    "align":"left",
+                    "boxed":false,
+                    "ellipsis":true
+                }
+            }
+        }
+    ],
+    "pageSettings":{
+    }
+}
