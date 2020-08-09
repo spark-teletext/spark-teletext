@@ -3,12 +3,12 @@ CT,6,T
 PS,8005
 PN,88801
 SC,0000
-OL,20,  CKKMYou're expecting to see some  JJ  
-OL,22,  CKKMsubtitles, yeah?              JJ  
+OL,20,   CKKMWere you expecting to see JJ     
+OL,22,   CKKMsome subtitles here?      JJ     
 DE,888
 CT,7,T
 PS,8005
 PN,88802
 SC,0002
-OL,20,  CKKMWell, there's nothing to see  JJ  
-OL,22,  CKKMhere. Not just now anyway!    JJ  
+OL,20,CKKMTry P166 for information on the JJ  
+OL,22,CKKMcurrently playing audio track.  JJ  
