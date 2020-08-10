@@ -1,0 +1,13 @@
+{
+    "modules": [
+        {
+            "moduleName":"alarm-clock",
+            "settings": {
+                "alarmTime":{
+                    "row":5,
+                    "column":14
+                }
+            }
+        }
+    ]
+}

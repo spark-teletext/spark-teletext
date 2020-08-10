@@ -3,7 +3,6 @@
         {
             "moduleName":"now-playing",
             "settings":{
-                "updateDelay":12,
                 "duration":1914,
                 "tracks":[
                     {"title":"Jackpot", "artist":"Frank McDonald & Chris Rae", "start":0},
