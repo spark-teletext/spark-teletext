@@ -1,0 +1,20 @@
+DE,Template for auto-generated alarm clock page
+PS,0000
+FL,8ff,8ff,8ff,8ff,8ff,100
+OL,2,  HSj7j5 k5{%kk5 j7! j7j7!z%     
+OL,3,  HSj7ju0k5j5jj5 ju0pjuju0j5     
+OL,5,              HH:MM Alarm               
+OL,7,FThe CEEFAX alarm clock page was an     
+OL,8,Finteresting use of page subcodes.      
+OL,10,FIn addition to the 3 digit page number,
+OL,11,Fevery teletext page also has a 4 digit 
+OL,12,Fsubcode number. These were originally  
+OL,13,Fdesignated HHMM to correspond to time. 
+OL,15,FA special button on the remote control 
+OL,16,FcalledBTime/TextFenables a subcode to  
+OL,17,Fbe entered, e.g. 1830 for 6:30 PM.     
+OL,18,FThe TV then waits for the page with the
+OL,19,Fdesired subcode to be received.        
+OL,21,FBy pressing theBCancelFbutton the text 
+OL,22,Fdisplay is hidden until the page with  
+OL,23,Fthe requested subcode is received      
