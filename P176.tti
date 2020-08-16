@@ -8,20 +8,21 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 15 August  \              
-OL,8,C06:00GDick Tracy Returns               
-OL,9,C08:05GYoung Eagles                     
-OL,10,C08:30GSir Francis Drake                
-OL,11,C09:00GRunaround                        
-OL,12,C09:30GStagecoach WestE@               
-OL,13,C10:30GHawkeye & the Last of the        
-OL,14,C     GMohicansE@                      
-OL,15,C11:00GStranger From Venus              
-OL,16,C12:35GLaxdale HallE@                  
-OL,17,C14:10GScarlet Blade                    
-OL,18,C15:50GCity Under the Sea               
-OL,19,C17:30GThe Adventures of Sir Lancelot   
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FSaturday 22 August  \              
+OL,8,C06:00GDick Tracy (1937)                
+OL,9,C08:00GYoung Eagles                     
+OL,10,C08:25GAll the Fun at the Fair -        
+OL,11,C     GGlimpses                         
+OL,12,C08:30GSir Francis Drake                
+OL,13,C09:00GRunaround                        
+OL,14,C09:30GStagecoach WestE@               
+OL,15,C10:30GHawkeye & the Last of the        
+OL,16,C     GMohicansE@                      
+OL,17,C11:00GServes You Right!                
+OL,18,C11:30GDanger on Dartmoor               
+OL,19,C12:40GIt's All Over Town               
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
@@ -35,16 +36,44 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 15 August  \              
-OL,8,C18:00GI'm All Right JackE@            
-OL,9,C20:05GThe Molly MaguiresE@            
-OL,10,C22:35GStardust                         
-OL,11,GSunday's Early Programmes               
-OL,12,C00:50GTo the Devil a Daughter          
-OL,13,C02:40GLaboratory                       
-OL,14,C04:25GCaptain's Table (1936)E@        
-OL,15,C05:30GFor the Love of Ada              
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FSaturday 22 August  \              
+OL,8,C13:50GPunch and Judy Man               
+OL,9,C15:50GHue and Cry                      
+OL,10,C17:30GThe Adventures of Sir Lancelot   
+OL,11,C18:00GThe Likely Lads                  
+OL,12,C19:50GThe Angry Silence                
+OL,13,C21:50GPersonal Services                
+OL,14,GSunday's Early Programmes               
+OL,15,C00:00GThe NannyE@                     
+OL,16,C01:50GThe Mountain Men                 
+OL,17,C03:50GVeteran Cars 1953                
+OL,18,C04:00GWidows                           
+OL,19,C05:00GMonty Nash                       
+OL,19,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17603
+SC,0003
+RE,0
+FL,177,175,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FSaturday 22 August  \              
+OL,8,C05:30GFor the Love of Ada              
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
 OL,16,C     G                                 
 OL,17,C     G                                 
 OL,18,C     G                                 
