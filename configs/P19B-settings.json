@@ -9,14 +9,15 @@
                     "align":"centre"
                 },
                 "statsPage":{
+                    "magazines":[1],
                     "timestamp":{
                         "row":3
                     },
                     "totals":{
-                        "row":5
+                        "row":4
                     },
                     "pageTable":{
-                        "row":7
+                        "row":6
                     }
                 },
                 "logPage":{
@@ -25,7 +26,7 @@
                     },
                     "logWindow":{
                         "row":5,
-                        "fcolour":"green"
+                        "colour":"green"
                     }
                 },
                 "infoPage":{
@@ -35,8 +36,11 @@
                     "startTime":{
                         "row":5
                     },
-                    "version":{
+                    "totals":{
                         "row":7
+                    },
+                    "version":{
+                        "row":9
                     }
                 }
             }
