@@ -3,19 +3,23 @@
         {
             "moduleName":"now-playing",
             "settings":{
-                "duration":1914,
+                "duration":2706,
                 "tracks":[
-                    {"title":"Jackpot", "artist":"Frank McDonald & Chris Rae", "start":0},
-                    {"title":"Formula One", "artist":"Curtis Schwartz", "start":184},
-                    {"title":"Living Image", "artist":"Paul Field", "start":373},
-                    {"title":"Spring Collection", "artist":"Graham Donald & Harry Preskett", "start":546},
-                    {"title":"Cruising Stateside", "artist":"Robert Howes & Rod Argent", "start":696},
-                    {"title":"The Long Journey", "artist":"Brian Bennett", "start":885},
-                    {"title":"Freewheelin'", "artist":"Mitch Dalton", "start":1110},
-                    {"title":"Way Down Yonder In New Barnet", "artist":"Simon Park", "start":1290},
-                    {"title":"Take Care Of You", "artist":"Wolfgang Muermann", "start":1458},
-                    {"title":"Harvey", "artist":"Midas Touch", "start":1652},
-                    {"title":"Pringle", "artist":"Alan Parker", "start":1786}
+                    {"title":"Fashion Corner", "artist":"Konrad Wolf", "start":0},
+                    {"title":"Say Yes", "artist":"Tony Tape", "start":179},
+                    {"title":"Feeling Happy", "artist":"Heidi Pehofer", "start":360},
+                    {"title":"Concerto Grosso D'Amore", "artist":"Rolf Cardello", "start":545},
+                    {"title":"Funky Mixture A", "artist":"Sammy Burdson, John Fiddy", "start":686},
+                    {"title":"Holiday Spirit A", "artist":"Sammy Burdson, John Fiddy", "start":863},
+                    {"title":"The Trackers", "artist":"Dennis Farnon", "start":1027},
+                    {"title":"Two Bars", "artist":"Pete Moore", "start":1280},
+                    {"title":"Imaginations", "artist":"John Fiddy, Mac Prindy, Klaus Witschi", "start":1420},
+                    {"title":"Funky James", "artist":"Norbert Ruemmele", "start":1619},
+                    {"title":"You Should Care", "artist":"Wolfgang Kaltenbach", "start":1828},
+                    {"title":"Take A Look", "artist":"Sammy Burdson", "start":2025},
+                    {"title":"Pop Message", "artist":"Ulli Gigg", "start":2207},
+                    {"title":"Rainbow Melody", "artist":"Peter Xanten", "start":2372},
+                    {"title":"This Is My Way", "artist":"Gerhard Narholz", "start":2556}
                 ],
                 "progressBar":{
                     "row":10,
