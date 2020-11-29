@@ -3,23 +3,21 @@
         {
             "moduleName":"now-playing",
             "settings":{
-                "duration":2706,
+                "duration":1959,
                 "tracks":[
-                    {"title":"Fashion Corner", "artist":"Konrad Wolf", "start":0},
-                    {"title":"Say Yes", "artist":"Tony Tape", "start":179},
-                    {"title":"Feeling Happy", "artist":"Heidi Pehofer", "start":360},
-                    {"title":"Concerto Grosso D'Amore", "artist":"Rolf Cardello", "start":545},
-                    {"title":"Funky Mixture A", "artist":"Sammy Burdson, John Fiddy", "start":686},
-                    {"title":"Holiday Spirit A", "artist":"Sammy Burdson, John Fiddy", "start":863},
-                    {"title":"The Trackers", "artist":"Dennis Farnon", "start":1027},
-                    {"title":"Two Bars", "artist":"Pete Moore", "start":1280},
-                    {"title":"Imaginations", "artist":"John Fiddy, Mac Prindy, Klaus Witschi", "start":1420},
-                    {"title":"Funky James", "artist":"Norbert Ruemmele", "start":1619},
-                    {"title":"You Should Care", "artist":"Wolfgang Kaltenbach", "start":1828},
-                    {"title":"Take A Look", "artist":"Sammy Burdson", "start":2025},
-                    {"title":"Pop Message", "artist":"Ulli Gigg", "start":2207},
-                    {"title":"Rainbow Melody", "artist":"Peter Xanten", "start":2372},
-                    {"title":"This Is My Way", "artist":"Gerhard Narholz", "start":2556}
+                    {"title":"A Magical Christmas", "artist":"Glyn Michael Owen", "start":0},
+                    {"title":"Hark the Herald Angels Sing", "artist":"Saunders/Cousins/Mendelssohn/Cummings", "start":127},
+                    {"title":"Santa's Party", "artist":"Matthew John Moore", "start":286},
+                    {"title":"Showdown Christmas", "artist":"Laszlo Frederick", "start":435},
+                    {"title":"Jingle Bells", "artist":"Saunders/Stephen-Cousins/Pierpont", "start":593},
+                    {"title":"Pork Pie Hat", "artist":"Tony Clarke", "start":723},
+                    {"title":"Three Little Words", "artist":"Vasco Jeremy/Noel William Abbott", "start":869},
+                    {"title":"Girls At Christmas", "artist":"Matthew John Moore", "start":1069},
+                    {"title":"Snowflakes and Stilton", "artist":"Paul Martin Pritchard", "start":1190},
+                    {"title":"Happy Holidays", "artist":"Robert Charles/Edwin Bagshaw", "start":1332},
+                    {"title":"Santa Claus Is Coming", "artist":"Aaron Frederick/Laszlo Wheeler", "start":1472},
+                    {"title":"Under The Christmas Lights", "artist":"Jason Tarver/Lucy Rachel Underhill", "start":1612},
+                    {"title":"All You Need Is Christmas Day", "artist":"A Murray/P Magdinier/T Jacob", "start":1789}
                 ],
                 "progressBar":{
                     "row":10,
