@@ -5,26 +5,26 @@ PN,17701
 SC,0001
 RE,0
 FL,171,176,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/3
-OL,6,D]FSunday 13 December  \              
-OL,8,C06:00GA Fire Has Been ArrangedE@      
-OL,9,C07:25GLaxdale HallE@                  
+OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
+OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
+OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
+OL,4,CTalking Pictures TV  G             G1/2
+OL,6,A]GSunday 20 December  \              
+OL,8,C06:00GThe Black AbbotE@               
+OL,9,C07:10GFrasier The Loveable LionE@     
 OL,10,C09:00GRunaround                        
 OL,11,C09:30GBlack Saddle                     
 OL,12,C10:00GJohnny Ringo                     
 OL,13,C10:30GRogue's Rock                     
-OL,14,C11:00GBrothers in Law                  
-OL,15,C12:55GThe Duke Wore JeansE@           
-OL,16,C14:45GSea Devils                       
-OL,17,C16:35GSunday Night at the London       
-OL,18,C     GPalladium                        
-OL,19,C17:30GThe Adventures of Robin Hood     
+OL,14,C11:00GWonderful LifeE@                
+OL,15,C13:15GKind Hearts & Coronets           
+OL,16,C15:25GWe Dive at Dawn                  
+OL,17,C17:30GThe Adventures of Robin Hood     
+OL,18,C18:00GUpstairs Downstairs              
+OL,19,C19:00GVeteran Cars 1953                
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
+OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
 DE,
 CT,8,T
@@ -33,51 +33,24 @@ PN,17702
 SC,0002
 RE,0
 FL,171,176,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/3
-OL,6,D]FSunday 13 December  \              
-OL,8,C18:00GUpstairs Downstairs              
-OL,9,C19:00GSpring and Port WineE@          
-OL,10,C21:00GEnemy At The Door                
-OL,11,C22:00GThe Driver                       
-OL,12,C23:50GThe Party's OverE@              
+OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
+OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
+OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
+OL,4,CTalking Pictures TV  G             G2/2
+OL,6,A]GSunday 20 December  \              
+OL,8,C19:10GGenevieve                        
+OL,9,C20:50GSnowtime Serenade 1941           
+OL,10,C21:00GEnemy At The DoorE@             
+OL,11,C22:00GThe Naked Civil Servant          
+OL,12,C23:35GWhite Water Summer               
 OL,13,GMonday's Early Programmes               
-OL,14,C01:40GPiccadilly Third StopE@         
-OL,15,C03:25GThe David Niven Show             
-OL,16,C03:55GWho Were You With Last Night -   
-OL,17,C     GGlimpses                         
-OL,18,C04:00GHannay                           
-OL,19,C05:00GAmos Burke: Secret Agent         
-OL,20,C     G                                 
-OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
-OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
-DE,
-CT,8,T
-PS,8000
-PN,17703
-SC,0003
-RE,0
-FL,171,176,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G3/3
-OL,6,D]FSunday 13 December  \              
-OL,8,C     G                                 
-OL,9,C     G                                 
-OL,10,C     G                                 
-OL,11,C     G                                 
-OL,12,C     G                                 
-OL,13,C     G                                 
-OL,14,C     G                                 
-OL,15,C     G                                 
-OL,16,C     G                                 
-OL,17,C     G                                 
+OL,14,C01:20GFrench PostcardsE@              
+OL,15,C03:10GThe Rivals of Sherlock Holmes    
+OL,16,C04:00GHannay                           
+OL,17,C05:00GBurke's Law                      
 OL,18,C     G                                 
 OL,19,C     G                                 
+OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
+OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
