@@ -5,26 +5,26 @@ PN,17701
 SC,0001
 RE,0
 FL,171,176,140,190,170,199
-OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
-OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
-OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
-OL,4,CTalking Pictures TV  G             G1/3
-OL,6,A]GSunday 03 January  \               
-OL,8,C06:00GClimb Up the Wall                
-OL,9,C07:20GJohn and Betty and the Magic     
-OL,10,C     GDog                              
-OL,11,C07:30GThe Butler's DilemmaE@          
-OL,12,C09:00GRunaround                        
-OL,13,C09:30GBlack Saddle                     
-OL,14,C10:00GJohnny Ringo                     
-OL,15,C10:30GRogue's Rock                     
-OL,16,C11:00GDate With DisasterE@            
-OL,17,C12:15GBirmingham & The Road Patrol     
-OL,18,C     GBikes in the 1950s - Glimpses    
-OL,19,C12:30GThe Shillingbury Blowers         
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G1/2
+OL,6,D]FSunday 10 January  \               
+OL,8,C06:00GWho Goes NextE@                 
+OL,9,C07:40GFolly To Be WiseE@              
+OL,10,C09:30GBlack Saddle                     
+OL,11,C10:00GJohnny Ringo                     
+OL,12,C10:30GRogue's Rock                     
+OL,13,C11:00GMr Reeder in Room 13             
+OL,14,C12:35GThe Land that Time ForgotE@     
+OL,15,C14:20GGirls! Girls! Girls!E@          
+OL,16,C16:15GCross Channel                    
+OL,17,C17:30GThe Adventures of Robin Hood     
+OL,18,C18:00GUpstairs Downstairs              
+OL,19,C19:00GHannay                           
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,A]G     talkingpicturestv.co.uk         
+OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
 DE,
 CT,8,T
@@ -33,51 +33,24 @@ PN,17702
 SC,0002
 RE,0
 FL,171,176,140,190,170,199
-OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
-OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
-OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
-OL,4,CTalking Pictures TV  G             G2/3
-OL,6,A]GSunday 03 January  \               
-OL,8,C14:10GLast HolidayE@                  
-OL,9,C15:55GThe Green ManE@                 
-OL,10,C17:30GThe Adventures of Robin Hood     
-OL,11,C18:00GUpstairs Downstairs              
-OL,12,C19:00GSnowtime Serenade 1941           
-OL,13,C19:10GThe AnniversaryE@               
-OL,14,C21:00GEnemy At The DoorE@             
-OL,15,C22:00GDulcima                          
-OL,16,GMonday's Early Programmes               
-OL,17,C00:00GGirl in the Headlines            
-OL,18,C01:50GWinter Weekend                   
-OL,19,C02:05GCity That Never Sleeps (1953)    
-OL,20,C     G                                 
-OL,21,                  E@GSubtitles available
-OL,23,A]G     talkingpicturestv.co.uk         
-OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
-DE,
-CT,8,T
-PS,8000
-PN,17703
-SC,0003
-RE,0
-FL,171,176,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G3/3
-OL,6,A]GSunday 03 January  \               
-OL,8,C03:50GSinging Cowboys                  
-OL,9,C04:00GHannay                           
-OL,10,C05:00GThe Westerner                    
-OL,11,C05:30GTateE@                          
-OL,12,C     G                                 
-OL,13,C     G                                 
-OL,14,C     G                                 
-OL,15,C     G                                 
-OL,16,C     G                                 
-OL,17,C     G                                 
-OL,18,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/2
+OL,6,D]FSunday 10 January  \               
+OL,8,C20:00GSunday Night at the London       
+OL,9,C     GPalladium                        
+OL,10,C21:00GEnemy At The DoorE@             
+OL,11,C22:00GThe Seventh Veil                 
+OL,12,GMonday's Early Programmes               
+OL,13,C00:00GYesterday's Hero                 
+OL,14,C01:50GDon't Ever Leave Me              
+OL,15,C03:25GStrange Harvest (1953)E@        
+OL,16,C04:00GHannay                           
+OL,17,C05:00GThe Westerner                    
+OL,18,C05:30GTateE@                          
 OL,19,C     G                                 
+OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,A]G     talkingpicturestv.co.uk         
+OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
