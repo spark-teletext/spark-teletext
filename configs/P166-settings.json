@@ -3,21 +3,21 @@
         {
             "moduleName":"now-playing",
             "settings":{
-                "duration":1959,
+                "duration":2315,
                 "tracks":[
-                    {"title":"A Magical Christmas", "artist":"Glyn Michael Owen", "start":0},
-                    {"title":"Hark the Herald Angels Sing", "artist":"Saunders/Cousins/Mendelssohn/Cummings", "start":127},
-                    {"title":"Santa's Party", "artist":"Matthew John Moore", "start":286},
-                    {"title":"Showdown Christmas", "artist":"Laszlo Frederick", "start":435},
-                    {"title":"Jingle Bells", "artist":"Saunders/Stephen-Cousins/Pierpont", "start":593},
-                    {"title":"Pork Pie Hat", "artist":"Tony Clarke", "start":723},
-                    {"title":"Three Little Words", "artist":"Vasco Jeremy/Noel William Abbott", "start":869},
-                    {"title":"Girls At Christmas", "artist":"Matthew John Moore", "start":1069},
-                    {"title":"Snowflakes and Stilton", "artist":"Paul Martin Pritchard", "start":1190},
-                    {"title":"Happy Holidays", "artist":"Robert Charles/Edwin Bagshaw", "start":1332},
-                    {"title":"Santa Claus Is Coming", "artist":"Aaron Frederick/Laszlo Wheeler", "start":1472},
-                    {"title":"Under The Christmas Lights", "artist":"Jason Tarver/Lucy Rachel Underhill", "start":1612},
-                    {"title":"All You Need Is Christmas Day", "artist":"A Murray/P Magdinier/T Jacob", "start":1789}
+                    {"title":"Interchange", "artist":"Philip Pope", "start":0},
+                    {"title":"Sports Spectacle", "artist":"Louis Clark", "start":186},
+                    {"title":"Technicolour", "artist":"Alan Hawkshaw", "start":350},
+                    {"title":"Coming Of Age", "artist":"Warren Bennett", "start":510},
+                    {"title":"My Country", "artist":"Louis Clark", "start":733},
+                    {"title":"Chasin' A Dream", "artist":"Philip Pope", "start":912},
+                    {"title":"Kickstart", "artist":"Chris Gibbons/Pete Harris", "start":1097},
+                    {"title":"Run The River", "artist":"Warren Bennett", "start":1313},
+                    {"title":"Science Focus", "artist":"Philip Pope", "start":1497},
+                    {"title":"Commerce", "artist":"James Asher", "start":1686},
+                    {"title":"Sky Chaser", "artist":"Ben Hoffnung/Mike Howlett", "start":1842},
+                    {"title":"A Better World", "artist":"Philip Pope", "start":1985},
+                    {"title":"Space Mountain", "artist":"Hiller/Lee/Upton", "start":2167}
                 ],
                 "progressBar":{
                     "row":10,

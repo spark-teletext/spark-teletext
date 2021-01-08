@@ -7,6 +7,12 @@
             "outputDir": "temp"
         },
         {
+            "pageNumber": 166,
+            "settingsFile": "configs/P166-settings.json",
+            "templateFile": "templates/now-playing-template.tti",
+            "outputDir": "temp"
+        },
+        {
             "pageNumber": "0x19B",
             "settingsFile": "configs/P19B-settings.json",
             "outputDir": "temp"
