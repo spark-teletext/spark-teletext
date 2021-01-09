@@ -8,20 +8,20 @@ FL,171,176,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSunday 10 January  \               
-OL,8,C06:00GWho Goes NextE@                 
-OL,9,C07:40GFolly To Be WiseE@              
-OL,10,C09:30GBlack Saddle                     
-OL,11,C10:00GJohnny Ringo                     
-OL,12,C10:30GRogue's Rock                     
-OL,13,C11:00GMr Reeder in Room 13             
-OL,14,C12:35GThe Land that Time ForgotE@     
-OL,15,C14:20GGirls! Girls! Girls!E@          
-OL,16,C16:15GCross Channel                    
-OL,17,C17:30GThe Adventures of Robin Hood     
-OL,18,C18:00GUpstairs Downstairs              
-OL,19,C19:00GHannay                           
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FSunday 17 January  \               
+OL,8,C06:00GRome: The Eternal City           
+OL,9,C06:10GTurn of The Tide                 
+OL,10,C07:45GFarewell To ArmsE@              
+OL,11,C09:30GBlack Saddle                     
+OL,12,C10:00GJohnny Ringo                     
+OL,13,C10:30GRogue's Rock                     
+OL,14,C11:00GWaterfront                       
+OL,15,C12:35GTake Me High                     
+OL,16,C14:20GMeet The Navy                    
+OL,17,C15:55GThe Girl From Manhattan          
+OL,18,C17:30GThe Adventures of Robin Hood     
+OL,19,C18:00GUpstairs Downstairs              
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,171,176,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSunday 10 January  \               
-OL,8,C20:00GSunday Night at the London       
-OL,9,C     GPalladium                        
-OL,10,C21:00GEnemy At The DoorE@             
-OL,11,C22:00GThe Seventh Veil                 
-OL,12,GMonday's Early Programmes               
-OL,13,C00:00GYesterday's Hero                 
-OL,14,C01:50GDon't Ever Leave Me              
-OL,15,C03:25GStrange Harvest (1953)E@        
-OL,16,C04:00GHannay                           
-OL,17,C05:00GThe Westerner                    
-OL,18,C05:30GTateE@                          
-OL,19,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FSunday 17 January  \               
+OL,8,C19:00GHannay                           
+OL,9,C20:00GSunday Night at the London       
+OL,10,C     GPalladium                        
+OL,11,C21:00GEnemy At The DoorE@             
+OL,12,C22:00GBreakthrough                     
+OL,13,C23:50GOut of Season (1975)             
+OL,14,GMonday's Early Programmes               
+OL,15,C01:35GBest Pair Of Legs In The         
+OL,16,C     GBusiness                         
+OL,17,C03:35GHook, Line and Sinker            
+OL,18,C04:00GHannay                           
+OL,19,C05:00GThe Westerner                    
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
+DE,
+CT,8,T
+PS,8000
+PN,17703
+SC,0003
+RE,0
+FL,171,176,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FSunday 17 January  \               
+OL,8,C05:30GTateE@                          
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
