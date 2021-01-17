@@ -8,20 +8,20 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FThursday 14 January  \             
-OL,8,C06:00GIt's a Wonderful WorldE@        
-OL,9,C07:40GA Cry From The StreetsE@        
-OL,10,C09:30GSir Francis Drake                
-OL,11,C10:00GRobin's Nest                     
-OL,12,C10:30GContraband                       
-OL,13,C12:20GCrystal Palace                   
-OL,14,C12:25GThe Conquest of EverestE@       
-OL,15,C14:00GRooms                            
-OL,16,C14:30GI Live In Grosvenor SquareE@    
-OL,17,C16:45GEvery Day Except Christmas       
-OL,18,C     G(1957)                           
-OL,19,C17:30GRooms                            
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FThursday 21 January  \             
+OL,8,C06:00GNight RideE@                    
+OL,9,C07:30GFamilies Of The World -          
+OL,10,C     GGlimpses                         
+OL,11,C07:55GBeyond ChristmasE@              
+OL,12,C09:30GSir Francis Drake                
+OL,13,C10:00GRobin's Nest                     
+OL,14,C10:30GMadeleine                        
+OL,15,C12:50GAmbush In Leopard StreetE@      
+OL,16,C14:00GRooms                            
+OL,17,C14:30GMurder At 3amE@                 
+OL,18,C15:45GPatricia Presents...             
+OL,19,C15:50GWitness In The DarkE@           
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FThursday 14 January  \             
-OL,8,C18:00GScotland Yard                    
-OL,9,C18:35GLease of Life                    
-OL,10,C20:25GScales of Justice                
-OL,11,C21:00GPublic Eye                       
-OL,12,C22:00GThe Silent Partner               
-OL,13,GFriday's Early Programmes               
-OL,14,C00:10GWhite Mischief                   
-OL,15,C02:25GMelody ClubE@                   
-OL,16,C03:45GWe Three                         
-OL,17,C04:00GPublic Eye                       
-OL,18,C05:00GSaints & Sinners                 
-OL,19,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FThursday 21 January  \             
+OL,8,C17:05GTalking Pictures With Patricia   
+OL,9,C     GDaintonE@                       
+OL,10,C17:30GRooms                            
+OL,11,C18:00GScotland Yard                    
+OL,12,C18:35GThe Mirror Crack'd               
+OL,13,C20:40GIWM: The Channel Islands         
+OL,14,C     G1940-1945                        
+OL,15,C21:00GPublic Eye                       
+OL,16,C22:00GThe Boston Strangler             
+OL,17,GFriday's Early Programmes               
+OL,18,C00:20GThis Is My Street                
+OL,19,C02:20GPlease Turn Over                 
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17403
+SC,0003
+RE,0
+FL,175,173,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FThursday 21 January  \             
+OL,8,C04:00GPublic Eye                       
+OL,9,C05:00GSaints & Sinners                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
