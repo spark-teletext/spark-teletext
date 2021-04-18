@@ -8,20 +8,20 @@ FL,172,135,140,150,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FMonday 12 April  \                 
-OL,8,C06:00GThe SouthernerE@                
-OL,9,C07:50GBoys in Brown                    
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FMonday 19 April  \                 
+OL,8,C06:00GDuel In the JungleE@            
+OL,9,C08:00GLaxdale HallE@                  
 OL,10,C09:30GOverseas Press Club -            
 OL,11,C     GExclusive!                       
 OL,12,C10:00GGet Some In!                     
-OL,13,C10:30GCone of Silence                  
-OL,14,C12:20GThe TraitorE@                   
-OL,15,C14:00GEnemy At The DoorE@             
-OL,16,C15:00GHobson's ChoiceE@               
-OL,17,C17:10GNo Hiding Place - Dead RingerE@ 
-OL,18,C18:00GInterpol Calling                 
-OL,19,C18:30GThe Quiet WomanE@               
+OL,13,C10:30GTalkies                          
+OL,14,C10:35GPersonal Affair                  
+OL,15,C12:15GInn For TroubleE@               
+OL,16,C14:00GEnemy At The DoorE@             
+OL,17,C15:00GHeaven Can WaitE@               
+OL,18,C17:15GLaurel & Hardy Musical Moments   
+OL,19,C17:25GScotland Yard                    
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,172,135,140,150,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FMonday 12 April  \                 
-OL,8,C20:00GGideon's Way                     
-OL,9,C21:00GMen In WarE@                    
-OL,10,C23:05GThe Big Operator                 
-OL,11,GTuesday's Early Programmes              
-OL,12,C00:50GGuns of Darkness                 
-OL,13,C02:55GWho Were You With Last Night -   
-OL,14,C     GGlimpses                         
-OL,15,C03:00GLondon EntertainsE@             
-OL,16,C04:00GShadows of Fear                  
-OL,17,C05:00GThe RoguesE@                    
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FMonday 19 April  \                 
+OL,8,C18:00GInterpol Calling                 
+OL,9,C18:30GCircumstantial Evidence (1952)   
+OL,10,C19:40GGlorious Devon in the 50s        
+OL,11,C20:00GGideon's Way                     
+OL,12,C21:00GHigh TideE@                     
+OL,13,C22:50GThe ShakedownE@                 
+OL,14,GTuesday's Early Programmes              
+OL,15,C00:40GHIT!E@                          
+OL,16,C03:25GStrange Harvest (1953)E@        
+OL,17,C04:00GShadows of Fear                  
+OL,18,C04:30GHey, Jeannie!                    
+OL,19,C05:00GThe Rogues                       
+OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext day BQuondam  CSpeak Out FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17103
+SC,0003
+RE,0
+FL,172,135,140,150,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FMonday 19 April  \                 
+OL,8,C     G                                 
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
-OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext day BQuondam  CSpeak Out FAbout Us
