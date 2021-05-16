@@ -8,20 +8,20 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 15 May  \                 
-OL,8,C06:00GTwo on the TilesE@              
-OL,9,C07:30GThe Reluctant BrideE@           
-OL,10,C09:00GSupermanE@                      
-OL,11,C09:10GThe Cisco KidE@                 
-OL,12,C09:45GJohnny on the RunE@             
-OL,13,C11:05GChampion The WonderhorseE@      
-OL,14,C11:35GRadar Men From The MoonE@       
-OL,15,C11:50GCasper The Friendly Ghost -      
-OL,16,C     GBoo MoonE@                      
-OL,17,C12:00GThe Fishmonger in 1947 -         
-OL,18,C     GGlimpses                         
-OL,19,C12:15GThe Bank HolidayE@              
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FSaturday 22 May  \                 
+OL,8,C06:00GPhantom From SpaceE@            
+OL,9,C07:30GOld Mother Riley Meets The       
+OL,10,C     GVampireE@                       
+OL,11,C09:00GMusical Shadow MagicE@          
+OL,12,C09:05GSupermanE@                      
+OL,13,C09:15GThe Cisco KidE@                 
+OL,14,C09:50GTreasure At The MillE@          
+OL,15,C11:05GChampion The WonderhorseE@      
+OL,16,C11:35GRadar Men From The MoonE@       
+OL,17,C11:50GLooney Tunes - Have You Got      
+OL,18,C     GAny Castles?E@                  
+OL,19,C12:00GAsk A Policeman                  
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 15 May  \                 
-OL,8,C14:05GThe Land that Time ForgotE@     
-OL,9,C15:50GLook At Life                     
-OL,10,C16:00GVendetta For The Saint           
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FSaturday 22 May  \                 
+OL,8,C13:40GState Secret                     
+OL,9,C15:45GMan HuntE@                      
+OL,10,C17:45GLook At Life                     
 OL,11,C18:00GScotland Yard                    
-OL,12,C18:35GIs Paris Burning?E@             
-OL,13,C21:50GAll Coppers Are                  
-OL,14,C23:35GVampire Circus                   
+OL,12,C18:35GQ PlanesE@                      
+OL,13,C20:10GInferno                          
+OL,14,C21:55GHarry and TontoE@               
 OL,15,GSunday's Early Programmes               
-OL,16,C01:20GGuilty?E@                       
-OL,17,C03:10GKillings At Outpost ZetaE@      
-OL,18,C05:00GThe Detectives                   
-OL,19,C     G                                 
+OL,16,C00:15GThe Amorous Adventures of Moll   
+OL,17,C     GFlandersE@                      
+OL,18,C02:50GTender Mercies                   
+OL,19,C04:40GFragile With Care                
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17603
+SC,0003
+RE,0
+FL,177,175,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FSaturday 22 May  \                 
+OL,8,C05:00GThe Detectives                   
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
