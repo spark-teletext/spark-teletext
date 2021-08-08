@@ -8,20 +8,20 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 07 August  \              
-OL,8,C06:00GDepartment Store                 
-OL,9,C07:20GThe Great Chase                  
-OL,10,C07:30GPhantom From SpaceE@            
-OL,11,C09:00GCounty HospitalE@               
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FSaturday 14 August  \              
+OL,8,C06:00GPassing Clouds (AKA:             
+OL,9,C     GSpellbound)E@                   
+OL,10,C07:45GTicket To Paradise               
+OL,11,C09:00GTit for TatE@                   
 OL,12,C09:25GGreen Hornet Strikes AgainE@    
-OL,13,C09:50GBFI: Supersonic SaucerE@        
-OL,14,C10:55GFuryE@                          
-OL,15,C11:25GAdventures of Bunny RabbitE@    
-OL,16,C11:35GThe Phantom Empire               
-OL,17,C12:00GLifeboatE@                      
-OL,18,C14:00GVendetta For The Saint           
-OL,19,C16:00GLaurel & Hardy: Hog WildE@      
+OL,13,C09:55GBFI: Kid From CanadaE@          
+OL,14,C10:45GButch & BillyE@                 
+OL,15,C10:55GFuryE@                          
+OL,16,C11:25GThe Phantom EmpireE@            
+OL,17,C11:50GButch & Billy...E@              
+OL,18,C12:00GQ PlanesE@                      
+OL,19,C13:35GMan HuntE@                      
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 07 August  \              
-OL,8,C16:25GSaps At SeaE@                   
-OL,9,C17:35GBusy BodiesE@                   
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FSaturday 14 August  \              
+OL,8,C15:35GScales of Justice                
+OL,9,C16:10GSome Will, Some Won'tE@         
 OL,10,C18:00GScotland Yard                    
-OL,11,C18:35GThe Chain                        
-OL,12,C20:30GScales of Justice                
-OL,13,C21:00GBlack SundayE@                  
-OL,14,C23:50GThe Boston Strangler             
-OL,15,GSunday's Early Programmes               
-OL,16,C02:10GThe Beauty Jungle                
-OL,17,C04:25GVengeance                        
-OL,18,C05:00GThe Detectives                   
-OL,19,C     G                                 
+OL,11,C18:35GNightmail II                     
+OL,12,C19:05GSnowball                         
+OL,13,C20:25GLook At Life                     
+OL,14,C20:40GAll Coppers Are                  
+OL,15,C22:25GThe FirechasersE@               
+OL,16,GSunday's Early Programmes               
+OL,17,C00:30GWitchfinder General              
+OL,18,C02:15GStarting OverE@                 
+OL,19,C04:20GTake Two: Jenny Hanley           
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17603
+SC,0003
+RE,0
+FL,177,175,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FSaturday 14 August  \              
+OL,8,C05:00GThe Detectives                   
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
