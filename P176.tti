@@ -8,20 +8,20 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 02 October  \             
-OL,8,C06:00GMistaken Identity                
-OL,9,C07:00GWarlords of Atlantis             
-OL,10,C09:00GBattle of The Century            
-OL,11,C09:25GGreen Hornet Strikes AgainE@    
-OL,12,C09:50GBFI: The FloodE@                
-OL,13,C11:00GBar 20 Rides Again               
-OL,14,C11:10GDick TracyE@                    
-OL,15,C11:35GThe Phantom EmpireE@            
-OL,16,C12:00GSpies of the Air                 
-OL,17,C13:35GDemetrius and The GladiatorsE@  
-OL,18,C15:35GHalls of Montezuma               
-OL,19,C17:50GLook At Life                     
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FSaturday 09 October  \             
+OL,8,C06:00GLondon EntertainsE@             
+OL,9,C07:00GAir Enterprises: The Flying      
+OL,10,C     GBoats - Glimpses                 
+OL,11,C07:25GTarget EarthE@                  
+OL,12,C09:00GPhantom Creeps                   
+OL,13,C09:25GThe Secret TunnelE@             
+OL,14,C10:20GDick TracyE@                    
+OL,15,C10:45GTrail of the Royal MountedE@    
+OL,16,C11:10GBFI: To The RescueE@            
+OL,17,C11:35GThe Phantom EmpireE@            
+OL,18,C12:00GLook At Life                     
+OL,19,C12:15GDemobbedE@                      
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,177,175,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 02 October  \             
-OL,8,C18:00GScotland Yard                    
-OL,9,C18:35GA Day Begins in Manchester       
-OL,10,C     G(1960s)                          
-OL,11,C19:00GI Wake Up Screaming              
-OL,12,C20:35GNoble House                      
-OL,13,C22:25GWithout a ClueE@                
-OL,14,GSunday's Early Programmes               
-OL,15,C00:35GSidney Sheldon's BloodlineE@    
-OL,16,C02:55GStation Six-Sahara               
-OL,17,C04:55GThe Pale Faced Girl              
-OL,18,C05:30GHoney West                       
-OL,19,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FSaturday 09 October  \             
+OL,8,C14:05GMark of ZorroE@                 
+OL,9,C16:00GThe Lost WorldE@                
+OL,10,C18:00GScotland Yard                    
+OL,11,C18:35GLook At Life                     
+OL,12,C18:50GThe Left Hand of God             
+OL,13,C20:35GNoble House                      
+OL,14,C22:25GVilla RidesE@                   
+OL,15,GSunday's Early Programmes               
+OL,16,C00:45GThat'll Be The Day               
+OL,17,C02:35GThe ShakedownE@                 
+OL,18,C04:25GA Gunman Has EscapedE@          
+OL,19,C05:30GHoney West                       
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17603
+SC,0003
+RE,0
+FL,177,175,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FSaturday 09 October  \             
+OL,8,C     G                                 
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
