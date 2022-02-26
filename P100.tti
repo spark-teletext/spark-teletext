@@ -1,6 +1,6 @@
 DE,Index 1
 CT,12,T
-PS,C000
+PS,8000
 PN,10001
 SC,0001
 RE,0
@@ -16,12 +16,12 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
 OL,14,D]MCSparky reviews the week's TVG130    
-OL,17,  LWhat type of content would you like  
-OL,18,     GGGto see featured onCSPARK?       
-OL,20,          GEmail your ideas to          
-OL,21,            Fspark@tvark.org            
+OL,17,G  What type of content would you like  
+OL,18,G       to see featured onCSPARK?       
+OL,19,G                                       
+OL,20,G          Email your ideas to          
+OL,21,F            spark@tvark.org            
 OL,23,A] CContribute to TVARKG......... 120   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index 2
@@ -39,11 +39,12 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
 OL,14,D]M   CRex Road: Episode 101G132       
-OL,18,   This week's listings and highlights  
-OL,19,          onCTalking Pictures TV        
-OL,20,                 onFP170                
+OL,17,G  This week's listings and highlights  
+OL,18,G         onCTalking Pictures TV        
+OL,19,G                onFP170                
+OL,20,G                                       
+OL,21,G                                       
 OL,23,A]]CClassic TV logos on SPARKG... 161   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index 3
@@ -61,12 +62,12 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
 OL,14,D]M  CPlay our Befuddling quiz!G140     
-OL,17,  GAre you an unsigned artist or in an  
-OL,18,   F        Gunsigned band?             
-OL,20,    FGGet your music heard onCSPARK     
-OL,21,       GFor more details seeFP165       
+OL,17,G  Are you an unsigned artist or in an   
+OL,18,G            unsigned band?              
+OL,19,G                                       
+OL,20,G     Get your music heard onCSPARK      
+OL,21,G       For more details seeFP165        
 OL,23,A]]CYour views and reviewsG...... 150   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index 4
@@ -85,13 +86,12 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
 OL,14,D]MCThis week on Talking PicturesG170   
-OL,17,     Missed an episode ofCRex Road?     
-OL,19,      Catch up on the whole story       
-OL,20,        from the very beginning         
-OL,21,        atFzxnet.co.uk/rex-road         
-OL,22,V                                       
+OL,17,G    Missed an episode ofCRex Road?     
+OL,18,G                                       
+OL,19,G     Catch up on the whole story       
+OL,20,G       from the very beginning         
+OL,21,G       atFzxnet.co.uk/rex-road         
 OL,23,A] CNow Playing on SPARKG........ 166   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index 5
@@ -109,12 +109,12 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
 OL,14,D]M CWorld according to TsangbobG136    
-OL,17,  L Submit your own article forCSPARK   
-OL,18,     GGGand be part ofCSpeak Out        
-OL,20,      GEmail your contribution to       
-OL,21,            Fspark@tvark.org            
+OL,17,G   Submit your own article forCSPARK   
+OL,18,G       and be part ofCSpeak Out        
+OL,19,G                                       
+OL,20,G      Email your contribution to       
+OL,21,G           Fspark@tvark.org            
 OL,23,A] CContribute to TVARKG......... 120   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Index 6
@@ -132,11 +132,10 @@ OL,9,CRex RoadG..... 132 C Befuddle!G.... 140
 OL,10,CQuondamG...... 135 C TeletextrsG... 145
 OL,11,CTsangbobG..... 136 C Speak OutG.... 150
 OL,12,CSquare EyedG.. 137 C TPTVG......... 170
-OL,13,C                                       
-OL,14,D]M  CQuondam: Now versus ThenG135      
+OL,14,D]MCTeletext Block Party in AprilG147   
 OL,17,             ZQ LzThRj0               
 OL,18,             Z Qh5T5R}               
-OL,19,             Z QTjRj5   T          
+OL,19,             Z QTjRj5              
 OL,20,             ZT ppppppppp0              
 OL,21,             ZT +?!              
 OL,23,A]C More about TVARKG............ 190   
