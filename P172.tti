@@ -8,20 +8,20 @@ FL,172,171,140,150,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FTuesday 22 February  \             
-OL,8,C06:00GThe Second Mr. Bush              
-OL,9,C07:10GJack LondonE@                   
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FTuesday 01 March  \                
+OL,8,C06:00GLandslideE@                     
+OL,9,C07:15GThe Laughing Lady                
 OL,10,C09:00GStagecoach WestE@               
-OL,11,C10:00GThe Young LoversE@              
-OL,12,C12:00GFun in AcapulcoE@               
-OL,13,C14:00GThe Unsinkable Bette Davis       
-OL,14,C14:25GBus StopE@                      
-OL,15,C16:15GThe Brass Monkey                 
+OL,11,C10:00GStrange WomanE@                 
+OL,12,C12:00GCalling Paul TempleE@           
+OL,13,C13:50GWarn That ManE@                 
+OL,14,C15:25GLove and WarE@                  
+OL,15,C16:00GDoctor In CloverE@              
 OL,16,C18:00GDial 999E@                      
-OL,17,C18:30GPaul Temple's TriumphE@         
-OL,18,C20:00GThe Human JungleE@              
-OL,19,C21:00GAn Innocent ManE@               
+OL,17,C18:30GDead Man's EvidenceE@           
+OL,18,C19:50GLook At Life                     
+OL,19,C20:00GMaigretE@                       
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,172,171,140,150,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FTuesday 22 February  \             
-OL,8,C23:20GThunder In The CityE@           
-OL,9,GWednesday's Early Programmes            
-OL,10,C01:00GCellar Club with Caroline        
-OL,11,C     GMunroE@                         
-OL,12,C01:05GHorror of DraculaE@             
-OL,13,C02:45GCellar Club with Caroline        
-OL,14,C     GMunroE@                         
-OL,15,C02:50GSevered ArmE@                   
-OL,16,C04:35GTalking Pictures with Sally      
-OL,17,C     GGeeson                           
-OL,18,C05:30GSherlock HolmesE@               
-OL,19,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FTuesday 01 March  \                
+OL,8,C21:05GVan der Valk                     
+OL,9,C22:05GFlame In The StreetsE@          
+OL,10,GWednesday's Early Programmes            
+OL,11,C00:00GThe Outer LimitsE@              
+OL,12,C01:00GCellar Club with Caroline        
+OL,13,C     GMunroE@                         
+OL,14,C01:05GCurse of FrankensteinE@         
+OL,15,C02:45GCellar Club with Caroline        
+OL,16,C     GMunroE@                         
+OL,17,C02:50GBucket of BloodE@               
+OL,18,C04:10GCellar Club with Caroline        
+OL,19,C     GMunroE@                         
 OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay beforeCSpeak Out FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17203
+SC,0003
+RE,0
+FL,172,171,140,150,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FTuesday 01 March  \                
+OL,8,C04:15GUnder A CloudE@                 
+OL,9,C05:30GSherlock HolmesE@               
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
+OL,18,C     G                                 
+OL,19,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay beforeCSpeak Out FAbout Us
