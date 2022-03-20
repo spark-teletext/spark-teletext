@@ -4,53 +4,51 @@ PS,8000
 PN,17001
 SC,0001
 RE,0
-OL,1,D]          G  THIS WEEK Sx$G           
-OL,2,                       S`>!             
-OL,3,                      S`>!              
-OL,4,               S*u    `?                
-OL,5,                S"}  h7                 
-OL,6,                 S"}x7                  
+OL,1,D]             GTHIS WEEKSx$            
+OL,2,      S                 `>!             
+OL,3,      S                `>!              
+OL,4,      S         *u    `?                
+OL,5,      S          "}  h7                 
+OL,6,      S           "}x7                  
 OL,7,      S  `ppppppppprwppppppppp0         
 OL,8,      S ~/####################/}        
 OL,9,      Sj7                      k5       
 OL,10,      Sj5                      j5       
-OL,11,      Sj5    W    p||p        Sj5       
-OL,12,      Sj5    W   h4       Sj5       
-OL,13,      Sj5    W   h||||4       Sj5       
-OL,14,      Sj5    W   h||||4       Sj5       
-OL,15,      Sj5    WS|Wh||||4S|     Sj5       
-OL,16,      Sj5    WSktW+o?'Sx7     Sj5       
-OL,17,      Sj5     S +mtppx>'      Sj5       
-OL,18,      S*}      W  S         S~%       
+OL,11,      Sj5       W p||p S       j5       
+OL,12,      Sj5       Wh4S       j5       
+OL,13,      Sj5       Wh||||4S       j5       
+OL,14,      Sj5       Wh||||4S       j5       
+OL,15,      Sj5      |Wh||||4S|      j5       
+OL,16,      Sj5      ktW+o?'Sx7      j5       
+OL,17,      Sj5       +mtppx>'       j5       
+OL,18,      S*}                    ~%       
 OL,19,      S +o|0  x||||||||t  `|?'        
 OL,20,      S   z%`>#          #m0*u          
-OL,21,       S  ox'              +t?          
-OL,23,D]G      ON TALKING PICTURES TV         
+OL,21,      S   ox'              +t?          
+OL,23,D]G      ON TALKING PICTURES TV 
 DE,
 CT,18,T
 PS,8000
 PN,17003
 SC,0003
 RE,0
-OL,1,D]          G  THIS WEEK Sx$G           
-OL,2,                       S`>!             
-OL,3,                      S`>!              
-OL,4,               S*u    `?                
-OL,5,                S"}  h7                 
-OL,6,                 S"}x7                  
-OL,7,      S  `ppppppppprwppppppppp0         
-OL,8,      S ~/####################/}        
-OL,9,      Sj7 CMonday........G171S k5       
-OL,10,      Sj5 CTuesday.......G172S j5       
-OL,11,      Sj5 CWednesday.....G173S j5       
-OL,12,      Sj5 CThursday......G174S j5       
-OL,13,      Sj5 CFriday........G175S j5       
-OL,14,      Sj5 CSaturday......G176S j5       
-OL,15,      Sj5 CSunday........G177S j5       
-OL,16,      Sj5 CHighlights....G178S j5       
-OL,17,      Sj5                      j5       
-OL,18,      S*}                      ~%       
-OL,19,      S +o|0  x||||||||t  `|?'        
-OL,20,      S   z%`>#          #m0*u          
-OL,21,       S  ox'              +t?          
-OL,23,D]G      ON TALKING PICTURES TV         
+OL,1,D]      $      GTHIS WEEK               
+OL,3,S              `<G     18:00  SUNDAY    
+OL,4,S      `0     x' G                      
+OL,5,S       +t  `>!  G      Roger Moore     
+OL,6,S        "mx'    G       stars in       
+OL,7,S  ppppppprwpppppp0G                    
+OL,8,S ~/##############/} S (s9              
+OL,9,Sj7CMonday....G171Sk5W `,0              
+OL,10,Sj5CTuesday...G172Sj5W b,!              
+OL,11,Sj5CWednesday.G173Sj5W8kd`'  (|, h4     
+OL,12,Sj5CThursday..G174Sj5Wbf !    jzj$     
+OL,13,Sj5CFriday....G175Sj5W j)0`|t /***%     
+OL,14,Sj5CSaturday..G176Sj5W j 5j7/ z0h4t /o?%
+OL,15,Sj5CSunday....G177Sj5W`&j0*mth?}j5tj5 
+OL,16,S*}t              x~%W"!  htj?j5+j5 
+OL,17,S  +} `p|||||||0 ~'  W    *?*%"!# ""! 
+OL,18,S   >`>!      "m0mG                     
+OL,19,S   -'          +.G   series 1 begins   
+OL,20,                        20th March      
+OL,23,D]G      ON TALKING PICTURES TV
