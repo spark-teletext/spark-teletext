@@ -5,26 +5,26 @@ PN,17601
 SC,0001
 RE,0
 FL,177,175,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSaturday 17 December  \            
-OL,8,C06:00GThe Bohemian GirlE@             
-OL,9,C07:30GScarlet ThreadE@                
-OL,10,C09:00GWilliam TellE@                  
-OL,11,C09:30GJohn and JulieE@                
-OL,12,C11:05GGreen Hornet Strikes AgainE@    
-OL,13,C11:30GThe Adventures of Robin HoodE@  
-OL,14,C12:00GKillers From SpaceE@            
-OL,15,C13:30G12 days of Christmas             
-OL,16,C13:40GThe HuntersE@                   
-OL,17,C15:55GConfessionE@                    
-OL,18,C17:45GLook At Life                     
-OL,19,C17:55GCarry On Christmas SpecialE@    
+OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
+OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
+OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,A]GSaturday 24 December  \            
+OL,8,C06:00GProfileE@                       
+OL,9,C07:15GScrooge (1935)E@                
+OL,10,C08:50G12 days of Christmas             
+OL,11,C09:00GChristmas RhapsodyE@            
+OL,12,C09:15GWilliam TellE@                  
+OL,13,C09:45GNight Before ChristmasE@        
+OL,14,C10:00GBFI: The Christmas TreeE@       
+OL,15,C11:05GThe Adventures of Robin HoodE@  
+OL,16,C11:30GThree Wise Boys - GlimpsesE@    
+OL,17,C12:00GSanta Claus Conquers...          
+OL,18,C13:40GBFI: Night MailE@               
+OL,19,C14:05GChristmas LightsE@              
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
+OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
 DE,
 CT,8,T
@@ -33,24 +33,51 @@ PN,17602
 SC,0002
 RE,0
 FL,177,175,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSaturday 17 December  \            
-OL,8,C19:00GIn Suspicious CircumstancesE@   
-OL,9,C20:00GMaigretE@                       
-OL,10,C21:05GBear IslandE@                   
-OL,11,C23:25GConfessions of a Pop Performer   
-OL,12,GSunday's Early Programmes               
-OL,13,C01:10GFutureworld                      
-OL,14,C03:20GSwitching Channels               
-OL,15,C05:25GStar Performance: Marked Down    
+OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
+OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
+OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,A]GSaturday 24 December  \            
+OL,8,C15:35GChristmas with ShelleyE@        
+OL,9,C16:05GChristmas In London in 1957 -    
+OL,10,C     GGlimpses                         
+OL,11,C16:10GLost in the DesertE@            
+OL,12,C17:50GChristmas Wishes (1944)          
+OL,13,C17:55GCarry On Christmas SpecialE@    
+OL,14,C19:00GIn Suspicious CircumstancesE@   
+OL,15,C20:00GMaigretE@                       
+OL,16,C21:05GRunaway TrainE@                 
+OL,17,C23:15GAnd Then There Were None         
+OL,18,GSunday's Early Programmes               
+OL,19,C01:15GConfessions of a Driving         
+OL,20,C     GInstructor                       
+OL,21,                  E@GSubtitles available
+OL,23,A]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17603
+SC,0003
+RE,0
+FL,177,175,140,190,170,199
+OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
+OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
+OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,A]GSaturday 24 December  \            
+OL,8,C03:00GResurrected                      
+OL,9,C04:55GA Little of What You FancyE@    
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
 OL,16,C     G                                 
 OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
-OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
+OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
