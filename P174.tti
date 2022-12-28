@@ -1,56 +1,80 @@
 DE,
-CT,8,T
 PS,8000
-PN,17401
+PN,17501
 SC,0001
 RE,0
-FL,175,173,140,190,170,199
-OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
-OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
-OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,A]GThursday 22 December  \            
+FL,176,174,140,190,170,199
+OL,1,Q]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,Q]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,Q//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,A]GThursday 29 December  \            
 OL,8,C06:00GHoney West                       
-OL,9,C06:30GBank RaidersE@                  
-OL,10,C07:45GCarry On Christmas SpecialE@    
-OL,11,C08:50GSailor Beware!E@                
-OL,12,C10:30GTrain of EventsE@               
-OL,13,C12:15GNight Boat to DublinE@          
-OL,14,C14:10GThe Purple PlainE@              
-OL,15,C16:10GChristmas In Britain             
-OL,16,C16:20GHome For ChristmasE@            
-OL,17,C18:20GAn Inspector CallsE@            
-OL,18,C20:00GThe SaintE@                     
-OL,19,C21:00GJustice                          
+OL,9,C06:30GDusty ErmineE@                  
+OL,10,C08:20GLaurel-Hardy Murder CaseE@      
+OL,11,C09:00GBlack Saddle                     
+OL,12,C09:30GThe Farmer's Wife (1941)E@      
+OL,13,C11:05GDo Detectives Think?             
+OL,14,C11:30GMystery JunctionE@              
+OL,15,C12:45GWhite Cradle InnE@              
+OL,16,C14:25GSong of London                   
+OL,17,C15:00GMelvyn's Talking PicturesE@     
+OL,18,C15:10GHistory is Made at NightE@      
+OL,19,C17:05GMelvyn's Talking PicturesE@     
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
 DE,
-CT,8,T
 PS,8000
-PN,17402
-SC,0002
+PN,17501
+SC,0001
 RE,0
-FL,175,173,140,190,170,199
-OL,1,A]W|h4|`<$h4|h4h4x, |h4l<`<, P\QZ///////
-OL,2,A]Wk5*uj7juj5oz5k5j5bs?  \ZR///////
-OL,3,Q//,-.,/,,-.,-,-.-,.,-.-.-,.'!ZT,///////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,A]GThursday 22 December  \            
-OL,8,C22:00GThe Rivals of Sherlock Holmes    
-OL,9,C23:00GEnemy At The DoorE@             
-OL,10,GFriday's Early Programmes               
-OL,11,C00:00GFrench Connection IIE@          
-OL,12,C02:20GStarting OverE@                 
-OL,13,C04:25GBeyond ChristmasE@              
+FL,176,174,140,190,170,199
+OL,1,Q]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,Q]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,Q//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,A]GThursday 29 December  \            
+OL,8,C17:15GSummertimeE@                    
+OL,9,C19:10GDerek Fowlds: A Part Well        
+OL,10,C     GPlayedE@                        
+OL,11,C19:50GLook At Life                     
+OL,12,C20:00GThe SaintE@                     
+OL,13,C21:00GJustice                          
+OL,14,C22:00GThe Rivals of Sherlock Holmes    
+OL,15,C23:00GEnemy At The DoorE@             
+OL,16,GFriday's Early Programmes               
+OL,17,C00:00GThe PianistE@                   
+OL,18,C02:50GDouble XE@                      
+OL,19,C04:50GThe Body VanishedE@             
+OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,A]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+PS,8000
+PN,17501
+SC,0001
+RE,0
+FL,176,174,140,190,170,199
+OL,1,Q]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,Q]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,Q//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,A]GThursday 29 December  \            
+OL,8,C05:50GLook At Life                     
+OL,9,C     G                                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
 OL,14,C     G                                 
 OL,15,C     G                                 
 OL,16,C     G                                 
 OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
-OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,A]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
