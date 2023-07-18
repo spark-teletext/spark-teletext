@@ -1,6 +1,6 @@
 DE,Speak Out Index P1
-CT,12,T
-PS,8000
+CT,2,C
+PS,C000
 PN,15001
 SC,0001
 FL,151,191,132,165,8ff,100
@@ -23,8 +23,6 @@ OL,20, By Ian RushworthG.................. 155
 OL,23,A]       CEMAILGspark@tvark.org         
 OL,24,ANext articleBContact UsCRex RoadFMusic 
 DE,Speak Out 2/2
-CT,12,T
-PS,8000
 PN,15002
 SC,0002
 FL,151,191,132,165,8ff,100

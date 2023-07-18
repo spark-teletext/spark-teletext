@@ -1,8 +1,8 @@
 DE,Channel 4 carousel: 4-Tel and Digitiser
-CT,18,T
+CT,2,C
+PS,C000
 PN,18401
 SC,0001
-PS,8000
 RE,0
 OL,1,E]W       x                \            
 OL,2,E]W     `~D CHANNEL 4    T
@@ -29,7 +29,6 @@ OL,22,G]G    ACLASSIC TELETEXT ON SPARK
 OL,23,A]G4-TEL P300               20/02/1994  
 PN,18402
 SC,0002
-PS,8000
 RE,0
 OL,1,R?4//T##R*/%j5*/%T#"###"!!!!!55u zjjj
 OL,2,R55joj5j5/%ojT|l||||||

@@ -1,8 +1,7 @@
 DE,ORACLE, STV ORACLE, Teletext on 3
-CT,18,T
+CT,2,C
 PN,18301
 SC,0001
-PS,8000
 RE,0
 OL,2,                INDEX                   
 OL,3,                *****                   
@@ -27,7 +26,6 @@ OL,21,GRAPHICS   17 OILS       34
 OL,24,Q]BClassic Teletext:   ORACLE 01/01/75  
 PN,18302
 SC,0002
-PS,8000
 RE,0
 OL,2,S#########R~k4k4~k4~k4 !S########### 
 OL,3,S#########Rj5n1n5   $S########### 
@@ -51,7 +49,6 @@ OL,22,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,Q]BClassic Teletext:   ORACLE 24/08/76  
 PN,18303
 SC,0003
-PS,8000
 RE,0
 OL,2,Q7#######k R~k4k4~k4~k4 !Q 7#######k 
 OL,3,Q5j5k7j55j Rj5n1n5   $Q 5j5k7j55j 
@@ -77,7 +74,6 @@ OL,23,CTHE ROYAL BATH AND WEST SHOW........110
 OL,24,Q]BClassic Teletext:   ORACLE 01/06/77  
 PN,18304
 SC,0004
-PS,8000
 RE,0
 OL,1,QRQ
 OL,2,Q5j4h5j5jR!4k 4k!4k!4k  ~Q5j4h5j5j
@@ -103,7 +99,6 @@ OL,23,BM-R...192 S-Z...193 EADVERTISERS...401
 OL,24,Q]BClassic Teletext:   ORACLE 17/01/80  
 PN,18305
 SC,0005
-PS,8000
 RE,0
 OL,1,Q|||||||||R|||||||||||||||||||Q|||||||||
 OL,2,Q5j4h5j5jR!4k 4k!4k!4k  ~Q5j4h5j5j
@@ -129,7 +124,6 @@ OL,22,B]DMHOW TO MAKE SOUP SPARKLE - 350
 OL,24,Q]BClassic Teletext:   ORACLE 13/11/82  
 PN,18306
 SC,0006
-PS,8000
 RE,0
 OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
 OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
@@ -150,7 +144,6 @@ OL,22,M]ABRITISH AIRWAYSDFLIGHT ARRIVALSA176
 OL,24,Q]BClassic Teletext:   ORACLE 07/02/87  
 PN,18307
 SC,0007
-PS,8000
 RE,0
 OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
 OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
@@ -176,7 +169,6 @@ OL,23,C]DORACLE INDICES & CAR STICKERS Ap183
 OL,24,Q]BClassic Teletext:   ORACLE 27/08/90  
 PN,18308
 SC,0008
-PS,8000
 RE,0
 OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q<l,,<l<l|
 OL,2,Q5j5j5j5jR 5j %z %j uz  oQ5j5j5j5j
@@ -203,7 +195,6 @@ OL,23,C]DORACLE INDICES & CAR STICKERS Ap183
 OL,24,Q]BClassic Teletext:   ORACLE 31/12/92  
 PN,18309
 SC,0009
-PS,8000
 RE,0
 OL,1,V|||||}|t `|4T]W   `p pp `p `p p p0    
 OL,2,Vwss37k4~!T]W   j5z%z5"! 0    
@@ -227,7 +218,6 @@ OL,22,G]A     CLASSIC TELETEXT ON SPARK
 OL,23,A]GSTV ORACLE P400          17/10/1982  
 PN,18310
 SC,0010
-PS,8000
 RE,0
 OL,1,S|||4  h|    h|         |4        h||||4
 OL,2,S 5|||jh||4~4|||h|h|(=        "#`~?!

@@ -1,6 +1,6 @@
 DE,Square Eyed 1/3
-CT,18,T
-PS,8000
+CT,2,C
+PS,C000
 PN,13701
 SC,0001
 RE,0
@@ -27,8 +27,6 @@ OL,20,G
 OL,23,A]GIGNITE THECSPARKGONCTVARK! D]G 1/3   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Square Eyed 2/3
-CT,18,T
-PS,8000
 PN,13702
 SC,0002
 RE,0
@@ -55,8 +53,6 @@ OL,21, fictional station.
 OL,23,A]GIGNITE THECSPARKGONCTVARK! D]G 2/3   
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Square Eyed 3/3
-CT,18,T
-PS,8000
 PN,13703
 SC,0003
 RE,0

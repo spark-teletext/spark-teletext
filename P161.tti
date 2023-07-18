@@ -1,6 +1,6 @@
 DE,GoingLogo P1/6
-CT,18,T
-PS,8000
+CT,2,C
+PS,C000
 PN,16101
 SC,0001
 FL,160,150,140,132,8ff,100
@@ -24,8 +24,6 @@ OL,19,S              ))))))))))))!
 OL,23,A                                       
 OL,24,APix ParadeBSpeak OutCBefuddleFRex Road 
 DE,GoingLogo P2/6
-CT,18,T
-PS,8000
 PN,16102
 SC,0002
 FL,160,150,140,132,8ff,100
@@ -49,8 +47,6 @@ OL,19,  W
 OL,23,A                                       
 OL,24,APix ParadeBSpeak OutCBefuddleFRex Road 
 DE,GoingLogo P/3/6
-CT,18,T
-PS,8000
 PN,16103
 SC,0003
 FL,160,150,140,132,8ff,100
@@ -79,8 +75,6 @@ OL,22,T],( ( (  (  $ (   $ ( $ $(( $$($,$,,,,$
 OL,23,D],( ( (  (  $ (   $ ( $ $(( $$($,$,,,,$
 OL,24,APix ParadeBSpeak OutCBefuddleFRex Road 
 DE,GoingLogo P4/6
-CT,18,T
-PS,8000
 PN,16104
 SC,0004
 FL,160,150,140,132,8ff,100
@@ -107,8 +101,6 @@ OL,21,DX          beeblepete 2019
 OL,23,A                                       
 OL,24,APix ParadeBSpeak OutCBefuddleFRex Road 
 DE,GoingLogo P5/6
-CT,18,T
-PS,8000
 PN,16105
 SC,0005
 FL,160,150,140,132,8ff,100
@@ -128,8 +120,6 @@ OL,16,VZ    jjjjjj     W  j     k7  *|~%
 OL,17,VZ    """"""      W ###!    "#    ###!  
 OL,24,APix ParadeBSpeak OutCBefuddleFRex Road 
 DE,GoingLogo P6/6
-CT,18,T
-PS,8000
 PN,16106
 SC,0006
 FL,160,150,140,132,8ff,100

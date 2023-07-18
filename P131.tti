@@ -1,6 +1,6 @@
 DE,Rex Road Intro P1/5
-CT,18,T
-PS,8000
+CT,2,C
+PS,C000
 PN,13101
 SC,0001
 FL,132,135,140,150,8ff,100
@@ -25,8 +25,6 @@ OL,21,B
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Rex Road Intro 2/5
-CT,18,T
-PS,8000
 PN,13102
 SC,0002
 FL,132,135,140,150,8ff,100
@@ -53,8 +51,6 @@ OL,21,B
 OL,23,A]    GIGNITE THECSPARKGONCTVARK!    G  
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Don Reynolds portrait
-CT,18,T
-PS,8000
 PN,13103
 SC,0003
 FL,132,135,140,150,8ff,100
@@ -82,8 +78,6 @@ OL,22,T99GREYNOLDST99W    px|.?Tx}
 OL,23,Tfffffffffffff  `~pppppppppx
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Josie Reynolds
-CT,18,T
-PS,8000
 PN,13104
 SC,0004
 FL,132,135,140,150,8ff,100
@@ -111,8 +105,6 @@ OL,22,T999990W `|0W"+?# x REYNOLDST9
 OL,23,TfffffW `~}t W "####  (//////$   Tff
 OL,24,ARex Road BQuondam  CBefuddle FSpeak Out
 DE,Rex Road Intro P5/5
-CT,18,T
-PS,18000
 PN,13105
 SC,0005
 FL,132,135,140,150,8ff,100
