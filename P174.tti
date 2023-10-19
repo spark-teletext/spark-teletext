@@ -1,6 +1,6 @@
 DE,
-CT,2,C
-PS,C000
+CT,8,T
+PS,8000
 PN,17401
 SC,0001
 RE,0
@@ -8,25 +8,27 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/3
-OL,6,D]FThursday 13 April  \               
-OL,8,C06:00GHoney West                       
-OL,9,C06:30GThe Economy Run 1957             
-OL,10,C06:50GThere is Another SunE@          
-OL,11,C08:45GLook At Life                     
-OL,12,C09:00GBlack Saddle                     
-OL,13,C09:30GWoman On The RunE@              
-OL,14,C11:05GBush ChristmasE@                
-OL,15,C12:35GThe Delavine AffairE@           
-OL,16,C13:50GBFI: TerminusE@                 
-OL,17,C14:30GCrown CourtE@                   
-OL,18,C15:00GMelvyn's Talking PicturesE@     
-OL,19,C15:10GLet's Be FamousE@               
+OL,4,CTalking Pictures TV  G             G1/2
+OL,6,D]FThursday 26 October  \             
+OL,8,C06:00GThe LarkinsE@                   
+OL,9,C06:30GSky LinerE@                     
+OL,10,C07:40GThe Black RiderE@               
+OL,11,C09:00GBlack Saddle                     
+OL,12,C09:35GLittle Red MonkeyE@             
+OL,13,C11:05GSvengaliE@                      
+OL,14,C12:45GTwo Way StretchE@               
+OL,15,C14:30GCrown CourtE@                   
+OL,16,C15:00GMelvyn's Talking PicturesE@     
+OL,17,C15:10GThe Gang's All HereE@           
+OL,18,C16:40GMelvyn's Talking PicturesE@     
+OL,19,C16:50GKing of The Khyber RiflesE@     
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
 DE,
+CT,8,T
+PS,8000
 PN,17402
 SC,0002
 RE,0
@@ -34,46 +36,21 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/3
-OL,6,D]FThursday 13 April  \               
-OL,8,C16:45GMelvyn's Talking PicturesE@     
-OL,9,C16:55GDelayed Action                   
-OL,10,C18:05GThe Lone Wolf Takes a ChanceE@  
-OL,11,C19:40GThe Coach Travellers in 1965     
-OL,12,C20:00GThe SaintE@                     
-OL,13,C21:00GJustice                          
-OL,14,C22:00GThe Whole TruthE@               
-OL,15,C23:40GThe Third SecretE@              
-OL,16,GFriday's Early Programmes               
-OL,17,C01:35GBlonde FistE@                   
-OL,18,C03:40GBlood Relatives                  
-OL,19,C05:30GTurn of Fate                     
-OL,20,C     G                                 
-OL,21,                  E@GSubtitles available
-OL,23,D]G     talkingpicturestv.co.uk         
-OL,24,ANext dayBDay before CBefuddle FAbout Us
-DE,
-PN,17403
-SC,0003
-RE,0
-FL,175,173,140,190,170,199
-OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
-OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
-OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G3/3
-OL,6,D]FThursday 13 April  \               
-OL,8,C     G                                 
-OL,9,C     G                                 
-OL,10,C     G                                 
-OL,11,C     G                                 
-OL,12,C     G                                 
-OL,13,C     G                                 
-OL,14,C     G                                 
+OL,4,CTalking Pictures TV  G             G2/2
+OL,6,D]FThursday 26 October  \             
+OL,8,C18:50GCrash DiveE@                    
+OL,9,C21:00GRumpole of the Bailey            
+OL,10,C22:05GNobody Runs ForeverE@           
+OL,11,GFriday's Early Programmes               
+OL,12,C00:05GMusic BoxE@                     
+OL,13,C02:35GPort of EscapeE@                
+OL,14,C04:10GGreat Day In The Morning         
 OL,15,C     G                                 
 OL,16,C     G                                 
 OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
+OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us

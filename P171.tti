@@ -1,6 +1,6 @@
 DE,
-CT,2,C
-PS,C000
+CT,8,T
+PS,8000
 PN,17101
 SC,0001
 RE,0
@@ -9,24 +9,26 @@ OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FMonday 10 April  \                 
-OL,8,C06:00GThree WitnessesE@               
-OL,9,C07:20GBe My GuestE@                   
-OL,10,C09:00GLook At Life                     
-OL,11,C09:10GWest of ZanzibarE@              
-OL,12,C11:00GRailroadedE@                    
-OL,13,C12:30GThe Sandwich ManE@              
+OL,6,D]FMonday 23 October  \               
+OL,8,C06:00GWest of ZanzibarE@              
+OL,9,C07:55GMaster SpyE@                    
+OL,10,C09:20GOnce A SinnerE@                 
+OL,11,C11:00GTime To RememberE@              
+OL,12,C11:35GShoot to KillE@                 
+OL,13,C12:45GThe Huggetts AbroadE@           
 OL,14,C14:30GCrown CourtE@                   
-OL,15,C15:00GThe Man From Snowy RiverE@      
-OL,16,C17:05GThe Rogues                       
+OL,15,C15:00GThe SaintE@                     
+OL,16,C16:00GHell is a CityE@                
 OL,17,C18:00GThe Footage DetectivesE@        
-OL,18,C19:00GThe ChampionsE@                 
-OL,19,C20:00GThe Main Chance                  
+OL,18,C19:00GLook At Life                     
+OL,19,C19:15GBroken JourneyE@                
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext day BQuondam  CSpeak Out FAbout Us
 DE,
+CT,8,T
+PS,8000
 PN,17102
 SC,0002
 RE,0
@@ -35,17 +37,17 @@ OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FMonday 10 April  \                 
-OL,8,C21:00GBear IslandE@                   
-OL,9,C23:20GSecret ArmyE@                   
+OL,6,D]FMonday 23 October  \               
+OL,8,C21:00GThe Gold RobbersE@              
+OL,9,C22:05GNight BeatE@                    
 OL,10,GTuesday's Early Programmes              
-OL,11,C00:25GCrown CourtE@                   
-OL,12,C00:55GCrown CourtE@                   
-OL,13,C01:25GCrown CourtE@                   
-OL,14,C01:55GThe Cheap DetectiveE@           
-OL,15,C03:45GBig Boy Rides AgainE@           
-OL,16,C04:50GThe Edgar Wallace Mystery        
-OL,17,C     GTheatre                          
+OL,11,C00:00GHennessyE@                      
+OL,12,C02:05GFrozen AliveE@                  
+OL,13,C03:40GTurn of Fate                     
+OL,14,C04:10GMohawkE@                        
+OL,15,C05:45GLook At Life                     
+OL,16,C     G                                 
+OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
 OL,20,C     G                                 

@@ -1,6 +1,6 @@
 DE,
-CT,2,C
-PS,C000
+CT,8,T
+PS,8000
 PN,17701
 SC,0001
 RE,0
@@ -9,24 +9,26 @@ OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FSunday 16 April  \                 
-OL,8,C06:00GMurder At 3amE@                 
-OL,9,C07:10GPony SoldierE@                  
-OL,10,C08:50GJust William's LuckE@           
-OL,11,C10:35GCalling Paul TempleE@           
-OL,12,C12:25GThis Above AllE@                
-OL,13,C14:30GThe LarkinsE@                   
-OL,14,C15:00GThe Smallest Show On EarthE@    
-OL,15,C16:40GLook At Life                     
+OL,6,D]FSunday 29 October  \               
+OL,8,C06:00GCastle SinisterE@               
+OL,9,C07:00GI'll Turn To YouE@              
+OL,10,C08:55GA Night in CasablancaE@         
+OL,11,C10:40GPaul Temple's TriumphE@         
+OL,12,C12:15GTulsaE@                         
+OL,13,C14:00GThe Adventures of Robin HoodE@  
+OL,14,C14:30GThe LarkinsE@                   
+OL,15,C15:10GSecond Time AroundE@            
 OL,16,C17:00GThe Footage DetectivesE@        
-OL,17,C18:00GThe SaintE@                     
-OL,18,C19:00GDefence Of The RealmE@          
-OL,19,C21:00GVan der ValkE@                  
+OL,17,C18:00GTell Me AnotherE@               
+OL,18,C18:30GLook At Life                     
+OL,19,C18:45GThe Smallest Show On EarthE@    
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,AMonday  BSaturday  CBefuddle FAbout Us 
 DE,
+CT,8,T
+PS,8000
 PN,17702
 SC,0002
 RE,0
@@ -35,15 +37,15 @@ OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
 OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FSunday 16 April  \                 
-OL,8,C22:00GRita, Sue and Bob TooE@         
-OL,9,C23:45GAbsence of MaliceE@             
-OL,10,GMonday's Early Programmes               
-OL,11,C02:00GHush...Hush Sweet CharlotteE@   
-OL,12,C04:40GThe Heritage Chart Show with     
-OL,13,C     GMike Read                        
-OL,14,C05:45GWool To Clothing in 1947-        
-OL,15,C     GGlimpses                         
+OL,6,D]FSunday 29 October  \               
+OL,8,C20:25GGo Go With Matt MonroE@         
+OL,9,C21:00GVan der ValkE@                  
+OL,10,C23:10GThe Bedroom WindowE@            
+OL,11,GMonday's Early Programmes               
+OL,12,C01:30GOne Way PendulumE@              
+OL,13,C03:10GThe Heritage Chart Show with     
+OL,14,C     GMike Read                        
+OL,15,C04:15GBlood Of The VampireE@          
 OL,16,C     G                                 
 OL,17,C     G                                 
 OL,18,C     G                                 
