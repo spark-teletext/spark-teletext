@@ -8,20 +8,20 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G1/2
-OL,6,D]FThursday 16 November  \            
-OL,8,C06:00GThe LarkinsE@                   
-OL,9,C06:30GCavalcade of VarietyE@          
-OL,10,C07:45GSerenaE@                        
+OL,4,CTalking Pictures TV  G             G1/3
+OL,6,D]FThursday 11 April  \               
+OL,8,C06:00GA Question of SuspenseE@        
+OL,9,C07:15GLook At Life                     
+OL,10,C07:30GThe HostageE@                   
 OL,11,C09:00GLaw Of The PlainsmanE@          
-OL,12,C09:30GMr. Winkle Goes To WarE@        
-OL,13,C11:05GThe Marked OneE@                
-OL,14,C12:25GPersonal ColumnE@               
-OL,15,C14:30GCrown CourtE@                   
-OL,16,C15:00GMelvyn's Talking PicturesE@     
-OL,17,C15:10GBlossom TimeE@                  
-OL,18,C16:55GMelvyn's Talking PicturesE@     
-OL,19,C17:05GThe Shillingbury BlowersE@      
+OL,12,C09:30GJour de Fête                     
+OL,13,C11:10GRecoilE@                        
+OL,14,C12:40GA Lifetime Ago with The Baim     
+OL,15,C     GCollection                       
+OL,16,C13:10GAppointment In LondonE@         
+OL,17,C15:00GCrown CourtE@                   
+OL,18,C15:30GCrown CourtE@                   
+OL,19,C16:00GCrown CourtE@                   
 OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
@@ -36,21 +36,48 @@ FL,175,173,140,190,170,199
 OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
 OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
 OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
-OL,4,CTalking Pictures TV  G             G2/2
-OL,6,D]FThursday 16 November  \            
-OL,8,C18:45GBetween the Tides 1958           
-OL,9,C19:10GSaloon BarE@                    
-OL,10,C20:40GMortimers Musings                
-OL,11,C21:00GRumpole of the Bailey            
-OL,12,C22:05GA Kiss Before DyingE@           
-OL,13,GFriday's Early Programmes               
-OL,14,C00:00GThe PlayboysE@                  
-OL,15,C02:05GAnatomy of a MurderE@           
-OL,16,C05:20GTalking Pictures TV with         
-OL,17,C     GMartin Clunes OBEE@             
+OL,4,CTalking Pictures TV  G             G2/3
+OL,6,D]FThursday 11 April  \               
+OL,8,C16:30GDanger UXB                       
+OL,9,C17:35GAdventures of Robinson CrusoeE@ 
+OL,10,C19:20GLook At Life                     
+OL,11,C19:30GTime To RememberE@              
+OL,12,C20:00GThe BrothersE@                  
+OL,13,C21:05GVan der ValkE@                  
+OL,14,C22:10GThe SnorkelE@                   
+OL,15,GFriday's Early Programmes               
+OL,16,C00:00GA Couple of Beauties             
+OL,17,C00:30GSex (Re) Education               
+OL,18,C01:00GSpearhead                        
+OL,19,C02:05GHouse on Haunted Hill            
+OL,20,C     G                                 
+OL,21,                  E@GSubtitles available
+OL,23,D]G     talkingpicturestv.co.uk         
+OL,24,ANext dayBDay before CBefuddle FAbout Us
+DE,
+CT,8,T
+PS,8000
+PN,17403
+SC,0003
+RE,0
+FL,175,173,140,190,170,199
+OL,1,T]Sl<h4| Wh4h4x,$l<h4|l0x, x,$  \QZ/////
+OL,2,T]Sj5*u? Wjuj5s{%j5j5j5oz5s{%  \ZR/////
+OL,3,T//-./,.//-,-.,,/-.-.,-.-,.,,/'!TZ,/////
+OL,4,CTalking Pictures TV  G             G3/3
+OL,6,D]FThursday 11 April  \               
+OL,8,C03:40GA Gunman Has EscapedE@          
+OL,9,C04:45GFalse ColoursE@                 
+OL,10,C     G                                 
+OL,11,C     G                                 
+OL,12,C     G                                 
+OL,13,C     G                                 
+OL,14,C     G                                 
+OL,15,C     G                                 
+OL,16,C     G                                 
+OL,17,C     G                                 
 OL,18,C     G                                 
 OL,19,C     G                                 
-OL,20,C     G                                 
 OL,21,                  E@GSubtitles available
 OL,23,D]G     talkingpicturestv.co.uk         
 OL,24,ANext dayBDay before CBefuddle FAbout Us
