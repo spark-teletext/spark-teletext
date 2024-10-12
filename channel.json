@@ -2,6 +2,9 @@
     "name":"spark",
     "publicuri":"wss://zxnet.co.uk/ws/spark",
     "settings":{
+        "image":{
+            "url":"https://zxnet.co.uk/teletext/viewer/channels/spark.png"
+        },
         "video":{
             "url":"https://zxnet.co.uk/teletext/viewer/channels/videotrack-1.mp4"
         },
