@@ -23,8 +23,8 @@
                 ],
                 "progressBar":{
                     "row":10,
-                    "onColour":"white",
-                    "offColour":"red",
+                    "onColour":"cyan",
+                    "offColour":"blue",
                     "align":"left",
                     "steps":13,
                     "boxed":false,
